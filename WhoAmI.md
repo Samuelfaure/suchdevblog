@@ -25,7 +25,7 @@ Also, an engineering degree in **Food Science**. Just for fun.
 
 1 to 2 years.
 
-Knows how to code **Clean**, **Agile**, and **Test-driven**.
+I code **Clean**, **Agile**, and **Test-driven**.
 
 ## Portfolio
 

@@ -1,6 +1,9 @@
 module.exports = {
   title: 'Such Dev Blog',
   description: 'Much code, very webdev.',
+  langs: [
+    { lang: 'en', label: 'English', path: '/', selectText: 'Languages' },
+  ],
   themeConfig: {
     nav: [
       { text: 'Who am I ?', link: '/WhoAmI' }
