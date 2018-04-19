@@ -1,9 +1,8 @@
 ---
-home: true
-heroImage: https://storage.suchdevblog.com/logo.jpg
+title: Testing Ansible scripts with Vagrant
+description: Very ansible, much deployment
 footer: MIT Licensed | Copyright © 2018-present by Samuel Faure <3
 ---
-
 # Testing ANSIBLE scripts without breaking everything with Vagrant
 
 Testing ANSIBLE scripts for server deployment might be tricky.
@@ -25,7 +24,7 @@ sudo apt-get install vagrant
 
 ## Step 2 : Choose / execute your box
 
-List of boxes available here : https://app.vagrantup.com/boxes/search
+List of boxes available [here](https://app.vagrantup.com/boxes/search).
 
 We will choose Ubuntu 16.04 (Xenial) :
 
@@ -130,6 +129,6 @@ bundle exec puma -C config/puma.rb -b tcp://127.0.0.1:3001
 sudo rails server -p 3000 -b 0.0.0.0
 ```
 
-Connect locally to http://localhost:3000/ . Congratulations, you are on Rails !
+Connect locally to [http://localhost:3000/](http://localhost:3000/). Congratulations, you are on Rails !
 
 You can stop your vagrant virtual machine with vagrant halt if you want to keep it in its current state, or vagrant destroy to destroy it completely.
