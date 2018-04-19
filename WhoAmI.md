@@ -17,15 +17,16 @@ Frameworks: **Rails**, **Vue.js**.
 
 ## Degrees
 
-Outstanding results at computing school **42 Paris**.
+Outstanding results at coding school **42 Paris**.
 
 Also, an engineering degree in **Food Science**. Just for fun.
 
 ## Experience
 
-1 to 2 years.
+1 to 2 years of :
 
-I code **Clean**, **Agile**, and **Test-driven**.
+- Coding **Clean**, **Agile**, and **Test-driven**.
+- Mentoring WebDev students at [OpenClassrooms](https://openclassrooms.com/).
 
 ## Portfolio
 
