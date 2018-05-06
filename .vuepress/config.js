@@ -11,8 +11,9 @@ module.exports = {
     sidebar: [
       '/Summary',
       '/WhoAmI',
-      '/TestingAnsibleScriptsWithVagrant.md',
-      '/HowToUseSolrWithRails.md'
+      '/BeginnersResources',
+      '/TestingAnsibleScriptsWithVagrant',
+      '/HowToUseSolrWithRails'
     ]
   }
 }
