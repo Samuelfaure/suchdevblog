@@ -12,6 +12,7 @@ module.exports = {
       '/Summary',
       '/WhoAmI',
       '/BeginnersResources',
+      '/IntermediateResources',
       '/TestingAnsibleScriptsWithVagrant',
       '/HowToUseSolrWithRails'
     ]

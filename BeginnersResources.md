@@ -11,25 +11,53 @@ Starting a WebDev career is hard. Learning how to code isn't very complicated, b
 
 Since I had to dive deep and fast in WebDev waters, and since I kept my passion for tutoring and mentoring, I saved the best resources a beginner WebDev might need to kickstart its career.
 
-## The WebDev Roadmap
+## General stuff
+
+### The WebDev Roadmap
 
 [Link](https://github.com/kamranahmedse/developer-roadmap)
 
 So you want to know how to be a webdev ? This map will tell you everything you need to learn.
 
-## Frontend Roadmap
+### Frontend Roadmap
 
 [Link](https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c)
 
 More in-depth look at the WebDev roadmap for frontend.
 
-## Oh shit, git!
+### Oh shit, git!
 
 [Link](http://ohshitgit.com/)
 
 While learning git, you WILL need this to save your sorry ass.
 
-## Javascript for dinosaurs
+### Clean code - Naming 101
+
+[Link](https://github.com/ftopia/spawncamping-octo-tyrion/blob/master/clean_code/c02_meaningful_names/README.md)
+
+Very short sum-up on how to Name stuff correctly. From the awesome Robert C. Martin book "Clean Code", which I recommend.
+
+### The Clean Coder
+
+[Link](https://gaston.life/books/clean-coder/)
+
+Sum-up on the *Right* attitude for a programmer, from "The Clean Coder" by Robert C. Martin.
+
+### The 7 ranks of a programmer
+
+[Link](https://dev.to/lpasqualis/7-ranks-of-coderhood-coder-programmer-computer-scientist-developer-engineer-architect-eca)
+
+Slightly cringy, yet a good read about the different skill levels of a programmer.
+
+### Training Ideas
+
+[Link](https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c)
+
+Dunno what to code ? Here are ideas.
+
+## Javascript
+
+### Javascript for dinosaurs
 
 **Must-read !**
 
@@ -37,62 +65,66 @@ While learning git, you WILL need this to save your sorry ass.
 
 Explaining exactly what is the current JavaScript environment and how we got here.
 
-## Learning Javascript in 2016
+### Learning Javascript in 2016
 
 [Link](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f)
 
 Funny take on what a mess the current JavaScript environment is. Read "Javascript for dinosaurs" first.
 
-## CSS for dinosaurs
+### React roadmap
+
+[Link](https://medium.freecodecamp.org/learning-react-roadmap-from-scratch-to-advanced-bff7735531b6)
+
+What you need to know to start learning React.
+
+## CSS
+
+### CSS for dinosaurs
 
 [Link](https://medium.com/actualize-network/modern-css-explained-for-dinosaurs-5226febe3525)
 
-The same, but for CSS.
+Where does CSS comes from ?
 
-## If the world was created by a programmer (funny)
-
-[Link](https://blog.toggl.com/world-created-programmer/)
-
-Little recreation for your students.
-
-## Bootstrap critics
-
-[Link](http://adventurega.me/bootstrap/)
-
-Show this to your students to make them understand why Bootstrap have a kinda-bad reputation.
-
-## CSS Flexbox froggy
+### CSS Flexbox froggy
 
 [Link](https://flexboxfroggy.com/)
 
 Little game to learn Flexbox ! (Also available in French)
 
-## CSS grid garden
+### CSS grid garden
 
 [Link](https://cssgridgarden.com/)
 
 Same but for CSS Grid !
 
-## Clean code - Naming 101
+### CSS Breakpoints the right way
 
-[Link](https://github.com/ftopia/spawncamping-octo-tyrion/blob/master/clean_code/c02_meaningful_names/README.md)
+https://medium.freecodecamp.org/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862
 
-Very short sum-up on how to Name stuff correctly. From the awesome Robert C. Martin book "Clean Code", which I recommend.
+### How To Mobile-first CSS
 
-## The Clean Coder
+[Link](https://zellwk.com/blog/how-to-write-mobile-first-css/)
 
-[Link](https://gaston.life/books/clean-coder/)
+Because we are in the 21th century.
 
-Sum-up on the *Right* attitude for a programmer, from "The Clean Coder" by Robert C. Martin.
+## Ruby and Rails
 
-## The 7 ranks of a programmer
+### Strong params
 
-[Link](https://dev.to/lpasqualis/7-ranks-of-coderhood-coder-programmer-computer-scientist-developer-engineer-architect-eca)
+[Link](https://www.sitepoint.com/rails-4-quick-look-strong-parameters/)
 
-Slightly cringy, yet a good read about the different skill levels of a programmer.
+Because it took me quite some time to understand what was strong params.
 
-## React roadmap
+## Recreation time
 
-[Link](https://medium.freecodecamp.org/learning-react-roadmap-from-scratch-to-advanced-bff7735531b6)
+### If the world was created by a programmer (funny)
 
-What you need to know to start learning React.
+[Link](https://blog.toggl.com/world-created-programmer/)
+
+Little recreation for your students.
+
+### Bootstrap critics
+
+[Link](http://adventurega.me/bootstrap/)
+
+Show this to your students to make them understand why Bootstrap have a kinda-bad reputation.
