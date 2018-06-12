@@ -5,7 +5,7 @@ footer: MIT Licensed | Copyright © 2018-present by Samuel Faure <3
 ---
 # Samuel Faure, Fullstack developer.
 
-![DevPic](./assets/devpic.png)
+![DevPic](./assets/devpic.jpeg)
 
 ## Skills
 

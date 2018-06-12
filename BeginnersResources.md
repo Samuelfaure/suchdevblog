@@ -99,7 +99,9 @@ Same but for CSS Grid !
 
 ### CSS Breakpoints the right way
 
-https://medium.freecodecamp.org/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862
+[Link](https://medium.freecodecamp.org/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862)
+
+Real CSS breakpoints !
 
 ### How To Mobile-first CSS
 
@@ -113,7 +115,7 @@ Because we are in the 21th century.
 
 [Link](https://www.sitepoint.com/rails-4-quick-look-strong-parameters/)
 
-Because it took me quite some time to understand what was strong params.
+Because it took me quite some time to understand what were strong params.
 
 ## Recreation time
 
