@@ -11,7 +11,7 @@ Starting a WebDev career is hard. Learning how to code isn't very complicated, b
 
 Since I had to dive deep and fast in WebDev waters, and since I kept my passion for tutoring and mentoring, I saved the best resources a beginner WebDev might need to kickstart its career.
 
-## General stuff
+## General knowledge
 
 ### The WebDev Roadmap
 
@@ -31,18 +31,6 @@ More in-depth look at the WebDev roadmap for frontend.
 
 While learning git, you WILL need this to save your sorry ass.
 
-### Clean code - Naming 101
-
-[Link](https://github.com/ftopia/spawncamping-octo-tyrion/blob/master/clean_code/c02_meaningful_names/README.md)
-
-Very short sum-up on how to Name stuff correctly. From the awesome Robert C. Martin book "Clean Code", which I recommend.
-
-### The Clean Coder
-
-[Link](https://gaston.life/books/clean-coder/)
-
-Sum-up on the *Right* attitude for a programmer, from "The Clean Coder" by Robert C. Martin.
-
 ### The 7 ranks of a programmer
 
 [Link](https://dev.to/lpasqualis/7-ranks-of-coderhood-coder-programmer-computer-scientist-developer-engineer-architect-eca)
@@ -54,6 +42,12 @@ Slightly cringy, yet a good read about the different skill levels of a programme
 [Link](https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c)
 
 Dunno what to code ? Here are ideas.
+
+### Client-side vs Server-side rendering
+
+[Link](https://medium.freecodecamp.org/what-exactly-is-client-side-rendering-and-hows-it-different-from-server-side-rendering-bd5c786b340d)
+
+What is SSR / CSR ? An historical explanation.
 
 ## Javascript
 
@@ -90,6 +84,12 @@ Where does CSS comes from ?
 [Link](https://flexboxfroggy.com/)
 
 Little game to learn Flexbox ! (Also available in French)
+
+### Complete guide to flexbox
+
+[Link](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+I've been using flexbox for a year and I still use this guide regularly. Whole website is gold !
 
 ### CSS grid garden
 
