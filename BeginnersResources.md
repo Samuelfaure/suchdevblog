@@ -25,7 +25,7 @@ So you want to know how to be a webdev ? This map will tell you everything you n
 
 More in-depth look at the WebDev roadmap for frontend.
 
-### Oh shit, git!
+### Oh shit, git !
 
 [Link](http://ohshitgit.com/)
 
@@ -70,6 +70,12 @@ Funny take on what a mess the current JavaScript environment is. Read "Javascrip
 [Link](https://medium.freecodecamp.org/learning-react-roadmap-from-scratch-to-advanced-bff7735531b6)
 
 What you need to know to start learning React.
+
+### Why use Single-Page-Application JavaScript Frameworks ?
+
+[Link](https://itnext.io/reddits-voting-ui-in-vanilla-vs-react-vs-vue-vs-hyperapp-shedding-light-on-the-purpose-of-spa-ee6b6ac9a8cc)
+
+The answer with a very detailed study of the Reddit up/downvote button.
 
 ## CSS
 

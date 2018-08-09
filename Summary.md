@@ -15,4 +15,6 @@ footer: MIT Licensed | Copyright © 2018-present by Samuel Faure <3
 
 -[How to use Solr / Sunspot with Rails in 2018 like a peasant](./HowToUseSolrWithRails.md)
 
+-[Debugging Solr / Sunspot like a pro](./DebuggingSolrSunspot.md)
+
 And more to come Soon&copy;

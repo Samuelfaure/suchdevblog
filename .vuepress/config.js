@@ -14,7 +14,8 @@ module.exports = {
       '/BeginnersResources',
       '/IntermediateResources',
       '/TestingAnsibleScriptsWithVagrant',
-      '/HowToUseSolrWithRails'
+      '/HowToUseSolrWithRails',
+      '/DebuggingSolrSunspot'
     ]
   }
 }
