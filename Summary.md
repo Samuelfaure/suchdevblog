@@ -11,6 +11,8 @@ footer: MIT Licensed | Copyright © 2018-present by Samuel Faure <3
 
 -[The Intermediate WebDev guide to the galaxy](./IntermediateResources.md)
 
+-[Design Resources for the enthusiastic WebDev](./DesignResources.md)
+
 -[Testing Ansible Scripts without breaking everything with Vagrant](./TestingAnsibleScriptsWithVagrant.md)
 
 -[How to use Solr / Sunspot with Rails in 2018 like a peasant](./HowToUseSolrWithRails.md)
