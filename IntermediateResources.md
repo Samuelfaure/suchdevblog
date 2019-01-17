@@ -40,5 +40,3 @@ How to get your business to show up on the right hand side of google.
 
 JWT are a prefered method of authentication, and therefore are essential tools to understand.
 Make sure you try [the JWT debugger](https://jwt.io/#debugger) from jwt.io to understand well the article.
-
-Vue pattern https://itnext.io/vue-a-pattern-for-idiomatic-performant-component-registration-you-might-not-know-about-9f3c091846f5
