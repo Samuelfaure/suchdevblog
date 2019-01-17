@@ -11,6 +11,7 @@ module.exports = {
     sidebar: [
       '/Summary',
       '/WhoAmI',
+      '/Portfolio',
       '/BeginnersResources',
       '/IntermediateResources',
       '/DesignResources',

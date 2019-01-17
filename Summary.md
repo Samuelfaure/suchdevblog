@@ -5,13 +5,21 @@ footer: MIT Licensed | Copyright © 2018-present by Samuel Faure <3
 ---
 # Summary
 
--[Who Am I ?](./WhoAmI.md) About the author.
+## About the author
+
+-[Who Am I ?](./WhoAmI.md) <== Recruiters read this
+
+-[Portfolio](./Portfolio.md)
+
+## WebDev Resources
 
 -[The Beginner WebDev guide to the galaxy](./BeginnersResources.md)
 
 -[The Intermediate WebDev guide to the galaxy](./IntermediateResources.md)
 
 -[Design Resources for the enthusiastic WebDev](./DesignResources.md)
+
+## Articles and tutorials
 
 -[Testing Ansible Scripts without breaking everything with Vagrant](./TestingAnsibleScriptsWithVagrant.md)
 
