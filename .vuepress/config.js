@@ -17,7 +17,8 @@ module.exports = {
       '/DesignResources',
       '/TestingAnsibleScriptsWithVagrant',
       '/HowToUseSolrWithRails',
-      '/DebuggingSolrSunspot'
+      '/DebuggingSolrSunspot',
+      '/UploadFilesFromVueToRails'
     ]
   }
 }

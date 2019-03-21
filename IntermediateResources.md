@@ -24,6 +24,15 @@ Very short sum-up on how to Name stuff correctly. From the awesome Robert C. Mar
 
 Sum-up on the *Right* attitude for a programmer, from "The Clean Coder" by Robert C. Martin.
 
+## Intermediate Javascript
+
+### Webpack config generator
+
+[Link](https://webpack.jakoblind.no/)
+
+Although I wouldn't advise to use generated configuration, this helps a lot with understanding how it works.
+Be sure to be smarter than me and read the doc, though.
+
 ## SEO
 
 ### Structured Data Schema Markup

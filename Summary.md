@@ -19,12 +19,14 @@ footer: MIT Licensed | Copyright © 2018-present by Samuel Faure <3
 
 -[Design Resources for the enthusiastic WebDev](./DesignResources.md)
 
-## Articles and tutorials
+## Tutorials
 
 -[Testing Ansible Scripts without breaking everything with Vagrant](./TestingAnsibleScriptsWithVagrant.md)
 
 -[How to use Solr / Sunspot with Rails in 2018 like a peasant](./HowToUseSolrWithRails.md)
 
 -[Debugging Solr / Sunspot like a pro](./DebuggingSolrSunspot.md)
+
+-[Upload files from Vue.js to Rails with ActiveStorage](./UploadFilesFromVueToRails.md)
 
 And more to come Soon&copy;
