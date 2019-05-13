@@ -131,12 +131,13 @@ export default {
         }
       },
       reset: function () {
+        this.stop()
         Object.assign(this.$data, this.initialState());
       },
       stop: function () {
         this.forceStop = true
       },
-      start: function () {
+      start: async function () {
         // We can start again
         this.forceStop = false
         // Displaying alert if impossible
@@ -145,7 +146,7 @@ export default {
         let board = [...Array(this.numberRows)].map(x =>
           [...Array(this.numberCols)].map(x => 0)
         )
-        this.solveQueens(board)
+        await this.solveQueens(board)
       },
       checkIfImpossible: function () {
         if ((this.numberQueensToPlace > this.numberCols) ||
@@ -324,7 +325,7 @@ export default {
     }
   }
 </script>
-<style>
+<style scoped>
   #container {
     display: flex;
     flex-direction: column;
