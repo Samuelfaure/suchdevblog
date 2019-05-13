@@ -21,7 +21,7 @@ footer: MIT Licensed | Copyright © 2018-present by Samuel Faure <3
 
 ### Is that a banana ?
 
-[Link](http://www.isthatabanana.com/)
+[Link](https://github.com/Samuelfaure/is_that_a_banana/) (Production discontinued)
 
 ![Portfolio_banana](./assets/portfolio_banana.png)
 

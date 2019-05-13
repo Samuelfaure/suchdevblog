@@ -19,6 +19,10 @@ footer: MIT Licensed | Copyright © 2018-present by Samuel Faure <3
 
 -[Design Resources for the enthusiastic WebDev](./DesignResources.md)
 
+## Demos
+
+-[The Super Duper Eight Queens Problem](./SuperDuperEightQueens.md)
+
 ## Tutorials
 
 -[Testing Ansible Scripts without breaking everything with Vagrant](./TestingAnsibleScriptsWithVagrant.md)
