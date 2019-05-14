@@ -436,6 +436,8 @@ export default {
 
   #chess_board {
     border: 5px solid #333;
+    overflow-x: hidden;
+    overflow-y: hidden;
   }
 
   #chess_board td {
