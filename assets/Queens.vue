@@ -131,13 +131,12 @@ export default {
         }
       },
       reset: function () {
-        this.stop()
         Object.assign(this.$data, this.initialState());
       },
       stop: function () {
         this.forceStop = true
       },
-      start: async function () {
+      start: function () {
         // We can start again
         this.forceStop = false
         // Displaying alert if impossible
@@ -146,7 +145,7 @@ export default {
         let board = [...Array(this.numberRows)].map(x =>
           [...Array(this.numberCols)].map(x => 0)
         )
-        await this.solveQueens(board)
+        this.solveQueens(board)
       },
       checkIfImpossible: function () {
         if ((this.numberQueensToPlace > this.numberCols) ||
@@ -196,8 +195,13 @@ export default {
             board[counterRow][col] = 1
             await this.placeQueenVisual(counterRow, col)
             this.numberQueensPlaced++
+
+            // In case where less queens than columns, need to check extra column placement
+            let columnsToTry = this.numberCols + 1 - this.numberQueensToPlace
             // result becomes true if any placement is possible
-            result = await this.solveQueensColumn(board, col + 1) || result
+            for (let i = 1; i <= columnsToTry; i++) {
+              result = await this.solveQueensColumn(board, col + i) || result
+            }
             // Backtracking
             board[counterRow][col] = 0
             await this.removeQueenVisual(counterRow, col)
