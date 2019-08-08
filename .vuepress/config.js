@@ -15,11 +15,13 @@ module.exports = {
       '/BeginnersResources',
       '/IntermediateResources',
       '/DesignResources',
+      '/HowToStartCSS',
       '/SuperDuperEightQueens',
       '/TestingAnsibleScriptsWithVagrant',
       '/HowToUseSolrWithRails',
       '/DebuggingSolrSunspot',
-      '/UploadFilesFromVueToRails'
+      '/UploadFilesFromVueToRails',
+      '/FilterAnythingInRails.md'
     ]
   }
 }

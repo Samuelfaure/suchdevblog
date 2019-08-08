@@ -19,6 +19,8 @@ footer: MIT Licensed | Copyright © 2018-present by Samuel Faure <3
 
 -[Design Resources for the enthusiastic WebDev](./DesignResources.md)
 
+-[How to start learning CSS without hating yourself](./HowToStartCSS.md)
+
 ## Demos
 
 -[The Super Duper Eight Queens Problem](./SuperDuperEightQueens.md)
@@ -32,5 +34,7 @@ footer: MIT Licensed | Copyright © 2018-present by Samuel Faure <3
 -[Debugging Solr / Sunspot like a pro](./DebuggingSolrSunspot.md)
 
 -[Upload files from Vue.js to Rails with ActiveStorage](./UploadFilesFromVueToRails.md)
+
+-[Filter anything on a Rails request with 10 lines of code](./FilterAnythingInRails.md)
 
 And more to come Soon&copy;

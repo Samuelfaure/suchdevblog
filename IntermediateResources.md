@@ -24,6 +24,12 @@ Very short sum-up on how to Name stuff correctly. From the awesome Robert C. Mar
 
 Sum-up on the *Right* attitude for a programmer, from "The Clean Coder" by Robert C. Martin.
 
+### Semver
+
+[Link](https://semver.org/)
+
+Learn correct versionning.
+
 ## Intermediate Javascript
 
 ### Webpack config generator
