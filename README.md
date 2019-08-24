@@ -4,7 +4,7 @@ description: A minimalist webdev blog for sharing knowledge
 home: true
 actionText: Read articles
 actionLink: Summary
-heroImage: https://storage.suchdevblog.com/logo.jpg
+heroImage: /logo.jpg
 footer: MIT Licensed | Copyright © 2018-present by Samuel Faure <3
 ---
 
