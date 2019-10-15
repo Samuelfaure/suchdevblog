@@ -13,7 +13,7 @@ footer: MIT Licensed | Copyright © 2018-present by Samuel Faure <3
 <EightQueens/>
 
 <script>
-import EightQueens from './assets/Queens.vue'
+import EightQueens from '../assets/Queens.vue'
 
 export default {
   components: {

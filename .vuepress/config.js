@@ -7,21 +7,6 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: 'Who am I ?', link: '/WhoAmI' }
-    ],
-    sidebar: [
-      '/Summary',
-      '/WhoAmI',
-      '/Portfolio',
-      '/BeginnersResources',
-      '/IntermediateResources',
-      '/DesignResources',
-      '/HowToStartCSS',
-      '/SuperDuperEightQueens',
-      '/TestingAnsibleScriptsWithVagrant',
-      '/HowToUseSolrWithRails',
-      '/DebuggingSolrSunspot',
-      '/UploadFilesFromVueToRails',
-      '/FilterAnythingInRails.md'
     ]
   }
 }

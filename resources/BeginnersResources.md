@@ -5,7 +5,7 @@ footer: MIT Licensed | Copyright © 2018-present by Samuel Faure <3
 ---
 # The Beginner WebDev guide to the galaxy
 
-<div style="text-align:center"><img style="width: 15em;" src="./assets/rocket.svg"/></div>
+<div style="text-align:center"><img style="width: 15em;" src="../assets/rocket.svg"/></div>
 
 Starting a WebDev career is hard. Learning how to code isn't very complicated, but learning the *full job* is something else altogether.
 
@@ -55,7 +55,7 @@ What is SSR / CSR ? An historical explanation.
 
 **Must-read !**
 
-[Link](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70) 
+[Link](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)
 
 Explaining exactly what is the current JavaScript environment and how we got here.
 
@@ -130,9 +130,3 @@ Because it took me quite some time to understand what were strong params.
 [Link](https://blog.toggl.com/world-created-programmer/)
 
 Little recreation for your students.
-
-### Bootstrap critics
-
-[Link](http://adventurega.me/bootstrap/)
-
-Show this to your students to make them understand why Bootstrap have a kinda-bad reputation.

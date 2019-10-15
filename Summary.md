@@ -13,28 +13,28 @@ footer: MIT Licensed | Copyright © 2018-present by Samuel Faure <3
 
 ## WebDev Resources
 
--[The Beginner WebDev guide to the galaxy](./BeginnersResources.md)
+-[The Beginner WebDev guide to the galaxy](./resources/BeginnersResources.md)
 
--[The Intermediate WebDev guide to the galaxy](./IntermediateResources.md)
+-[The Intermediate WebDev guide to the galaxy](./resources/IntermediateResources.md)
 
--[Design Resources for the enthusiastic WebDev](./DesignResources.md)
+-[Design Resources for the enthusiastic WebDev](./resources/DesignResources.md)
 
--[How to start learning CSS without hating yourself](./HowToStartCSS.md)
+-[How to start learning CSS without hating yourself](./resources/HowToStartCSS.md)
 
 ## Demos
 
--[The Super Duper Eight Queens Problem](./SuperDuperEightQueens.md)
+-[The Super Duper Eight Queens Problem](./demos/SuperDuperEightQueens.md)
 
 ## Tutorials
 
--[Testing Ansible Scripts without breaking everything with Vagrant](./TestingAnsibleScriptsWithVagrant.md)
+-[Testing Ansible Scripts without breaking everything with Vagrant](./guides/TestingAnsibleScriptsWithVagrant.md)
 
--[How to use Solr / Sunspot with Rails in 2018 like a peasant](./HowToUseSolrWithRails.md)
+-[How to use Solr / Sunspot with Rails in 2018 like a peasant](./guides/HowToUseSolrWithRails.md)
 
--[Debugging Solr / Sunspot like a pro](./DebuggingSolrSunspot.md)
+-[Debugging Solr / Sunspot like a pro](./guides/DebuggingSolrSunspot.md)
 
--[Upload files from Vue.js to Rails with ActiveStorage](./UploadFilesFromVueToRails.md)
+-[Upload files from Vue.js to Rails with ActiveStorage](./guides/UploadFilesFromVueToRails.md)
 
--[Filter anything on a Rails request with 10 lines of code](./FilterAnythingInRails.md)
+-[Filter anything on a Rails request with 10 lines of code](./guides/FilterAnythingInRails.md)
 
 And more to come Soon&copy;
