@@ -5,16 +5,30 @@ footer: MIT Licensed | Copyright © 2018-present by Samuel Faure <3
 ---
 # Portfolio
 
-## I Got Paid For This
+## I Got Paid For This, And My Team Too
+
+### API Entreprise
+
+[Link](https://entreprise.api.gouv.fr/)
+
+![Portfolio_api_entreprise](./assets/portfolio_apientreprise.svg)
+
+- Fullstack + devops at Etalab (DINSIC), Service of the Prime Minister
+- At the heart of the French Digital Transformation
+- Develop and maintain the API Entreprise, the official french governement API for confidential company data
+- Microservice architecture, deployed with Ansible
+
+## I Got Paid For This, (Mostly) By Myself
 
 ### Entreprise.data.gouv.fr
 
 [Link](https://entreprise.data.gouv.fr/)
 
-![Portfolio_entreprise](./assets/portfolio_entreprise.png)
+![Portfolio_data_entreprise](./assets/portfolio_entreprise.png)
 
-- The Open Data reference for all French Companies ans Associations.
-- Rails Backend + Vue.js Frontend + Solr as a search engine + Ansible for the servers.
+- The Open Data reference for all French Companies and Associations.
+- Vue.js Frontend
+- Powered by 3 Rails API (I wrote 2 of them)
 - Design by Thimy from [Codeurs en Liberté](https://www.xn--codeursenlibert-pnb.fr/)
 
 ## I Got No Money But I Had Fun
@@ -34,8 +48,8 @@ footer: MIT Licensed | Copyright © 2018-present by Samuel Faure <3
 
 ![Portfolio_archtheme](./assets/portfolio_archtheme.png)
 
-- Dotfiles for my ArchLinux config ricing.
-- Hand-picked color palette on a vaporwave theme.
+- My own archlinux system built from scratch
+- Designed with its vaporwave / retrowave theme
 
 ## What About School ?
 

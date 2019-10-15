@@ -11,7 +11,7 @@ footer: MIT Licensed | Copyright © 2018-present by Samuel Faure <3
 
 Knows **Backend**, **Frontend**, **Devops**.
 
-Languages include: **English**, **French**, **Javascript**, **Ruby**, **C**.
+Languages include: **English**, **French**, **Javascript**, **Ruby**.
 
 Frameworks: **Rails**, **Vue.js**.
 
@@ -23,12 +23,15 @@ Also, an engineering degree in **Food Science**. Just for fun.
 
 ## Experience
 
-2+ years of :
+**@Etalab, Service of the Prime Minister** : 2.5 years as Fullstack + Devops.
 
-- Coding **Clean**, **Agile**, and **Test-driven**.
-- Mentoring WebDev students at [OpenClassrooms](https://openclassrooms.com/).
+Also, I love to mentor aspiring webdevs at [Openclassrooms.](https://openclassrooms.com/)
 
 Check out my [Portfolio !](./Portfolio.md)
+
+## What I love
+
+Coding / Art / Music / Arduinos / Video games / Helping others.
 
 ## Contact Me
 
