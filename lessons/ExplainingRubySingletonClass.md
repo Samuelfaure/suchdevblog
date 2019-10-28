@@ -179,7 +179,7 @@ ExampleObject.classPrintHello # => 'Sayonara'
 
 As you see here, we don't call the method on an instance of the class (ExampleObject.new) but rather on the class itself (ExampleObject). It's okay though, because ExampleObject is itself an instance of `Class`.
 
-## If you're using Class methods, you're using the Eigenclass
+## If you're using Class methods, you're really using the Eigenclass
 
 If you do some Rails, you'll often have in your models:
 
