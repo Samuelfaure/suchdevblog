@@ -7,6 +7,41 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: 'Who am I ?', link: '/WhoAmI' }
+    ],
+    sidebar: [
+      '/Summary',
+      '/WhoAmI',
+      '/Portfolio',
+      {
+        title: 'Resources',
+        children: [
+          '/resources/BeginnersResources',
+          '/resources/IntermediateResources',
+          '/resources/DesignResources'
+        ]
+      },
+      {
+        title: 'Lessons',
+        children: [
+          '/lessons/HowToStartCSS.md',
+          '/lessons/ExplainingRubySingletonClass.md'
+        ]
+      },
+      {
+        title: 'Demos',
+        children: [
+          '/demos/SuperDuperEightQueens',
+        ]
+      },
+      {
+        title: 'Guides',
+        children: [
+          '/guides/TestingAnsibleScriptsWithVagrant',
+          '/guides/HowToUseSolrWithRails',
+          '/guides/DebuggingSolrSunspot',
+          '/guides/UploadFilesFromVueToRails'
+        ]
+      }
     ]
   }
 }
