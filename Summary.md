@@ -19,7 +19,11 @@ footer: MIT Licensed | Copyright © 2018-present by Samuel Faure <3
 
 -[Design Resources for the enthusiastic WebDev](./resources/DesignResources.md)
 
--[How to start learning CSS without hating yourself](./resources/HowToStartCSS.md)
+## Lessons
+
+-[How to start learning CSS without hating yourself](./lessons/HowToStartCSS.md)
+
+-[Explaining the Ruby Singleton Class to confused beginners](./lessons/ExplainingRubySingletonClass.md)
 
 ## Demos
 
