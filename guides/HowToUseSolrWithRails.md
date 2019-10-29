@@ -1,7 +1,7 @@
 ---
 title: How to use Solr / Sunspot with Rails
 description: Much search, very engine
-footer: MIT Licensed | Copyright © 2018-present by Samuel Faure <3
+footer: CC-BY-4.0 Licensed | Copyright © 2018-present by Samuel Faure <3
 ---
 # How to use Solr / Sunspot with Rails in 2018 like a peasant
 

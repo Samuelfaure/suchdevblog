@@ -1,7 +1,7 @@
 ---
 title: Upload Files from Vue.js to Rails with ActiveStorage
 description: More complicated than you'd think.
-footer: MIT Licensed | Copyright © 2019-present by Samuel Faure <3
+footer: CC-BY-4.0 Licensed | Copyright © 2019-present by Samuel Faure <3
 ---
 
 # Upload Files from Vue.js to Rails with ActiveStorage

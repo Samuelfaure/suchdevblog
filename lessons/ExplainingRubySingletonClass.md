@@ -1,3 +1,9 @@
+---
+title: Explaining Ruby's Singleton Class (Eigenclass) to confused beginners
+description: Much Ruby, Eigenvery, so singleton.
+footer: CC-BY-4.0 Licensed | Copyright © 2018-present by Samuel Faure <3
+---
+
 # Explaining Ruby's Singleton Class (Eigenclass) to confused beginners
 
 I got really confused when I started to look up exactly what was the Eigenclass. This confusion was not because of any complexity, but rather because of bad bits of explanations there and there, and no articles to describe the big picture.

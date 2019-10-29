@@ -1,7 +1,7 @@
 ---
 title: Who am I ?
 description: Such freelance, very work, much skillz
-footer: MIT Licensed | Copyright © 2018-present by Samuel Faure <3
+footer: CC-BY-4.0 Licensed | Copyright © 2018-present by Samuel Faure <3
 ---
 # Samuel Faure, Fullstack developer.
 

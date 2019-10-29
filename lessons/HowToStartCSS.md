@@ -1,7 +1,7 @@
 ---
 title: How to Start Learning CSS without hating yourself
 description: Much CSS, very beginner, so best practices.
-footer: MIT Licensed | Copyright © 2018-present by Samuel Faure <3
+footer: CC-BY-4.0 Licensed | Copyright © 2018-present by Samuel Faure <3
 ---
 # How to Start Learning CSS without hating yourself
 

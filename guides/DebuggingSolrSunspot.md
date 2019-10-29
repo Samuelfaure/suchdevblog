@@ -1,7 +1,7 @@
 ---
 title: Debugging Solr Sunspot like a pro
 description: Fix that bug, SOlve that 404, 500, 503 and more
-footer: MIT Licensed | Copyright © 2018-present by Samuel Faure <3
+footer: CC-BY-4.0 Licensed | Copyright © 2018-present by Samuel Faure <3
 ---
 # Debugging classic Solr Sunspot issues like a pro
 
