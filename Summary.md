@@ -41,4 +41,3 @@ footer: CC-BY-4.0 Licensed | Copyright © 2018-present by Samuel Faure <3
 
 -[Filter anything on a Rails request with 10 lines of code](./guides/FilterAnythingInRails.md)
 
-And more to come Soon&copy;

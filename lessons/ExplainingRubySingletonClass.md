@@ -226,6 +226,3 @@ So as you see, the *Class method* of your class is actually just an *Instance me
 
 Don't hesitate and repeat that last sentence to your company's interns: they'll think you're a Ruby genius !
 
-## Conclusion
-
-I hope this article was informative for you. You can find more of those on (my blog)[https://suchdevblog.com/], and good coding !
