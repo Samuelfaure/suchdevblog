@@ -5,24 +5,22 @@ footer: CC-BY-4.0 Licensed | Copyright © 2018-present by Samuel Faure <3
 ---
 # Portfolio
 
+The code for most of my work can be found on [github](https://github.com/samuelfaure/)
+
 ## I Got Paid For This, And My Team Too
 
 ### API Entreprise
-
-[Link](https://entreprise.api.gouv.fr/)
 
 ![Portfolio_api_entreprise](./assets/portfolio_apientreprise.svg)
 
 - Fullstack + devops at Etalab (DINSIC), Service of the Prime Minister
 - At the heart of the French Digital Transformation
 - Develop and maintain the API Entreprise, the official french governement API for confidential company data
-- Microservice architecture, deployed with Ansible
+- Ruby on Rails, Vue.js, with a Microservice architecture, deployed with Ansible
 
 ## I Got Paid For This, (Mostly) By Myself
 
 ### Entreprise.data.gouv.fr
-
-[Link](https://entreprise.data.gouv.fr/)
 
 ![Portfolio_data_entreprise](./assets/portfolio_entreprise.png)
 
@@ -35,21 +33,24 @@ footer: CC-BY-4.0 Licensed | Copyright © 2018-present by Samuel Faure <3
 
 ### Is that a banana ?
 
-[Link](https://github.com/Samuelfaure/is_that_a_banana/) (Production discontinued)
-
 ![Portfolio_banana](./assets/portfolio_banana.png)
 
 - Fun weekend project using Vue.js and TensorFlow.js
-- Analyze pics of bananas with a client-side neural network.
+- Analyze pics of bananas with a client-side neural network
 
-### ArchLinux Theme : Nostalgia Drive
-
-[Link](https://github.com/Samuelfaure/dotfiles_nostalgia_drive)
+### Archlinux system: Nostalgia Drive
 
 ![Portfolio_archtheme](./assets/portfolio_archtheme.png)
 
-- My own archlinux system built from scratch
+- My own Archlinux system built from scratch
 - Designed with its vaporwave / retrowave theme
+
+### Arduino project: Neon Genesis Cactus
+&nbsp;
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/AxgrOmg6wjI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- Fun weekend project using some C, Vue.js, p5,js, an ESP8266 module and some soldering
+- The cactus will light on the music beat
 
 ## What About School ?
 

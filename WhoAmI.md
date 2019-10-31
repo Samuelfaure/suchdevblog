@@ -1,7 +1,7 @@
 ---
 title: Who am I ?
 description: Such freelance, very work, much skillz
-footer: CC-BY-4.0 Licensed | Copyright © 2018-present by Samuel Faure <3
+footer: CC-BY-4.0 Licensed | Copyright © 2018-present by Samuel Faure \<3
 ---
 # Samuel Faure, Fullstack developer.
 
@@ -9,30 +9,29 @@ footer: CC-BY-4.0 Licensed | Copyright © 2018-present by Samuel Faure <3
 
 ## Skills
 
-Knows **Backend**, **Frontend**, **Devops**.
+  - Fluent :fr: :uk:
+  - Backend with **Ruby on Rails**
+  - Frontend with **Vue.js**
+  - DevOps, Continuous Integration
 
-Languages include: **English**, **French**, **Javascript**, **Ruby**.
-
-Frameworks: **Rails**, **Vue.js**.
-
-## Degrees
-
-Outstanding results at coding school **42 Paris**.
-
-Also, an engineering degree in **Food Science**. Just for fun.
+My code is **Test-driven** & **Self-documenting**.
 
 ## Experience
 
-**@Etalab, Service of the Prime Minister** : 2.5 years as Fullstack + Devops.
+**3 years as:**
+  - Fullstack & DevOps at **Etalab, Service of the Prime Minister**
+  - Webdev mentor at [Openclassrooms.](https://openclassrooms.com/)
 
-Also, I love to mentor aspiring webdevs at [Openclassrooms.](https://openclassrooms.com/)
+Check out [My Portfolio](./Portfolio.md)
 
-Check out my [Portfolio !](./Portfolio.md)
+## Education
 
-## What I love
+  - Outstanding results at coding school **42 Paris**.
+  - Engineering degree in **Food Science**. Just for fun.
 
-Coding / Art / Music / Arduinos / Video games / Helping others.
+## I love
 
+Coding | Art | Music | Arduinos | Video games | Helping others.
 ## Contact Me
 
 [samuel.faure.dev@gmail.com](mailto:samuel.faure.dev@gmail.com)
