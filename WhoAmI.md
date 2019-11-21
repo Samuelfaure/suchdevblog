@@ -22,7 +22,7 @@ My code is **Test-driven** & **Self-documenting**.
   - Fullstack & DevOps at **Etalab, Service of the Prime Minister**
   - Webdev mentor at [Openclassrooms.](https://openclassrooms.com/)
 
-And many smaller projects. Check out [My Portfolio](./Portfolio.md)
+And many small things ! Check out [My Portfolio](./Portfolio.md) or [My Github](https://github.com/samuelfaure).
 
 ## Education
 
