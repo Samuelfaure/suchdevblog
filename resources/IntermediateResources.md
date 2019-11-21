@@ -36,6 +36,14 @@ Basics for writing clear code.
 
 Learn correct versionning.
 
+## Develop your skills
+
+### How To DevOps
+
+[Link](https://github.com/Tikam02/DevOps-Guide)
+
+So you like computers ? Try DevOps.
+
 ## Intermediate Javascript
 
 ### Webpack config generator

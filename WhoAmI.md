@@ -18,11 +18,11 @@ My code is **Test-driven** & **Self-documenting**.
 
 ## Experience
 
-**3 years as:**
+**2.5 years as:**
   - Fullstack & DevOps at **Etalab, Service of the Prime Minister**
   - Webdev mentor at [Openclassrooms.](https://openclassrooms.com/)
 
-Check out [My Portfolio](./Portfolio.md)
+And many smaller projects. Check out [My Portfolio](./Portfolio.md)
 
 ## Education
 
