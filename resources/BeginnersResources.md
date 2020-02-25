@@ -3,11 +3,12 @@ title: The Beginner WebDev Guide
 description: Resources to make little webdev grow
 footer: MIT Licensed | Copyright © 2018-present by Samuel Faure <3
 ---
+
 # The Beginner WebDev guide to the galaxy
 
 <div style="text-align:center"><img style="width: 15em;" src="../assets/rocket.svg"/></div>
 
-Starting a WebDev career is hard. Learning how to code isn't very complicated, but learning the *full job* is something else altogether.
+Starting a WebDev career is hard. Learning how to code isn't very complicated, but learning the _full job_ is something else altogether.
 
 Since I had to dive deep and fast in WebDev waters, and since I kept my passion for tutoring and mentoring, I saved the best resources a beginner WebDev might need to kickstart its career.
 
@@ -76,6 +77,18 @@ What you need to know to start learning React.
 [Link](https://itnext.io/reddits-voting-ui-in-vanilla-vs-react-vs-vue-vs-hyperapp-shedding-light-on-the-purpose-of-spa-ee6b6ac9a8cc)
 
 The answer with a very detailed study of the Reddit up/downvote button.
+
+### The JS Fat Arrow
+
+[Link](https://www.freecodecamp.org/news/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26/)
+
+Very good article to explain this javascript concept.
+
+### You don't know JS (Yet)
+
+[Link](https://github.com/getify/You-Dont-Know-JS)
+
+Amazing book for beginners and intermediates alike.
 
 ## CSS
 
