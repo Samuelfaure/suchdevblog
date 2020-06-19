@@ -9,6 +9,15 @@ The code for most of my work can be found on [github](https://github.com/samuelf
 
 ## I Got Paid For This, And My Team Too
 
+### Sedomicilier
+
+![Portfolio_sedomicilier](./assets/portfolio_sedom.png)
+
+- Fullstack + Devops + Data Protection Officer at Sedomicilier.fr
+- Fully automated domiciliation solution & Affiliated services
+- Work on legacy code, developed new features, implemented quality processes
+- Ruby on Rails monolith with React, TypeScript, GraphQL frontends, on an AWS infrastructure.
+
 ### API Entreprise
 
 ![Portfolio_api_entreprise](./assets/portfolio_apientreprise.svg)
@@ -44,6 +53,7 @@ The code for most of my work can be found on [github](https://github.com/samuelf
 
 - My own Archlinux system built from scratch
 - Designed with its vaporwave / retrowave theme
+- Have been using it ever since
 
 ### Arduino project: Neon Genesis Cactus
 &nbsp;

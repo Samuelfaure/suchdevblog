@@ -10,7 +10,7 @@ We start, of course, with HTML CSS.
 HTML goes okay, for the most part. CSS, well, less. This is due, I think, to the particularities
 of CSS, where it is very, very easy to shoot yourself in the foot.
 
-The main problem is **student THINKING they got it right, when they didn't.** It looks okay, therefore it is okay.
+The main problem is **the student THINKING they got it right, when they didn't.** It looks okay, therefore it is okay.
 Of course, as soon as the page move a pixel, everything falls apart, and you never manage to really get
 what you wanted in the beginning.
 
@@ -58,10 +58,10 @@ That's because they wanted a *minimum size*, not a fixed size.
 
 If you stop and think, you'll realize that 95% of the time, you want `min-width`, `max-width` and the like.
 
-## Interlude Zen
+## Zen Interlude
 
 My student, join me in the river, and I shall teach you the art of CSS.
-CSS stands for Cascading Style Sheets. Like in a cascade, CSS code flows like water. You need simplicity and flexibility before anything. Punching the water will get you nowhere, whereas redirecting a whole river takes minimal effort.
+CSS stands for Cascading Style Sheets. CSS code flows like the water of a cascade. You need simplicity and flexibility before anything. Punching the water will get you nowhere, whereas redirecting a whole river takes minimal effort.
 
 Don't use a bulldozer to pick up a flower. Always go for the most flexible solution. As such, `min-width` will usually be better than `width`.
 

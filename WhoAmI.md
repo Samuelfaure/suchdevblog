@@ -12,7 +12,7 @@ footer: CC-BY-4.0 Licensed | Copyright © 2018-present by Samuel Faure \<3
 
 - Fluent :fr: :uk:
 - Backend with **Ruby on Rails**
-- Frontend with **Vue.js**
+- Frontend with **Vue.js** and **React**
 - DevOps, Continuous Integration
 
 My code is **Test-driven** & **Self-documenting**.
@@ -34,7 +34,7 @@ And many small things ! Check out [My Portfolio](./Portfolio.md) or [My Github](
 
 ## Secondary Skills
 
-Ansible | Apollo\* | Bash | C\* | Docker | Git | Continuous deployment | Continous Integration | CSS3 | Cypress | Go\* | GraphQL\* | HTML5 | Jest | MySQL-MariaDB\* | Nginx | Nightwatch | PostgreSQL | React\* | Rspec | Sass-Scss | Solr | TDD-BDD | TypeScript\* | Unix | WebPack
+Ansible | Apollo | AWS | Bash | C\* | Docker | Git | CircleCI | Continuous deployment | Continous Integration | CSS3 | Cypress | ES6 | Go\* | GraphQL | HTML5 | Jest | MySQL-MariaDB\* | Nginx | Nightwatch | PostgreSQL | Rspec | Sass-Scss | Solr | Stripe | TDD-BDD | TypeScript | Unix | WebPack | Zendesk
 
 _\*Only used in side projects_
 
