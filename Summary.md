@@ -31,6 +31,8 @@ footer: CC-BY-4.0 Licensed | Copyright © 2018-present by Samuel Faure <3
 
 ## Tutorials
 
+-[Build your own system with ArchLinux](./guides/BuildYourOwnSystem.md)
+
 -[Testing Ansible Scripts without breaking everything with Vagrant](./guides/TestingAnsibleScriptsWithVagrant.md)
 
 -[How to use Solr / Sunspot with Rails in 2018 like a peasant](./guides/HowToUseSolrWithRails.md)

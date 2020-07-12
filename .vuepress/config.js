@@ -36,6 +36,7 @@ module.exports = {
       {
         title: 'Guides',
         children: [
+          '/guides/BuildYourOwnSystem',
           '/guides/TestingAnsibleScriptsWithVagrant',
           '/guides/HowToUseSolrWithRails',
           '/guides/DebuggingSolrSunspot',
