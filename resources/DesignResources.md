@@ -15,12 +15,6 @@ Wanna be a webdev ? You need all the hats you can find. Close the gelstalt with 
 
 Cool backgrounds go a long way !
 
-### Palette generator
-
-[Link](https://colormind.io/)
-
-Best one I tried so far. You can also generate from an image.
-
 ## Accessibility
 
 ### Designing for the colorblind
