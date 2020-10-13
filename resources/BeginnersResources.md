@@ -20,6 +20,12 @@ Since I had to dive deep and fast in WebDev waters, and since I kept my passion 
 
 So you want to know how to be a webdev ? This map will tell you everything you need to learn.
 
+### Webdev Skills
+
+[Link](https://andreasbm.github.io/web-skills/)
+
+List of webdev skills to master.
+
 ### Frontend Roadmap
 
 [Link](https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c)
