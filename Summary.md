@@ -43,3 +43,4 @@ footer: CC-BY-4.0 Licensed | Copyright © 2018-present by Samuel Faure <3
 
 -[Filter anything on a Rails request with 10 lines of code](./guides/FilterAnythingInRails.md)
 
+-[Test all your GET routes in Rails with 20 lines of code](./guides/TestAllYourRoutesInRails.md)
