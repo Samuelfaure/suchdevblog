@@ -40,7 +40,8 @@ module.exports = {
           '/guides/TestingAnsibleScriptsWithVagrant',
           '/guides/HowToUseSolrWithRails',
           '/guides/DebuggingSolrSunspot',
-          '/guides/UploadFilesFromVueToRails'
+          '/guides/UploadFilesFromVueToRails',
+          '/TestAllYourRoutesInRails.md'
         ]
       }
     ]
