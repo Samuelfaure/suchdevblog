@@ -41,7 +41,7 @@ module.exports = {
           '/guides/HowToUseSolrWithRails',
           '/guides/DebuggingSolrSunspot',
           '/guides/UploadFilesFromVueToRails',
-          '/TestAllYourRoutesInRails.md'
+          '/guides/TestAllYourRoutesInRails.md'
         ]
       }
     ]
