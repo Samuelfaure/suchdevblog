@@ -70,6 +70,7 @@ Explaining exactly what is the current JavaScript environment and how we got her
 
 [Link](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f)
 
+A bit old but still worth a read.
 Funny take on what a mess the current JavaScript environment is. Read "Javascript for dinosaurs" first.
 
 ### React roadmap
@@ -77,6 +78,12 @@ Funny take on what a mess the current JavaScript environment is. Read "Javascrip
 [Link](https://medium.freecodecamp.org/learning-react-roadmap-from-scratch-to-advanced-bff7735531b6)
 
 What you need to know to start learning React.
+
+### Structuring React projects
+
+A definitive guide.
+
+[Link](https://blog.bitsrc.io/structuring-a-react-project-a-definitive-guide-ac9a754df5eb)
 
 ### Why use Single-Page-Application JavaScript Frameworks ?
 

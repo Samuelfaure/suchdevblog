@@ -19,7 +19,9 @@ My code is **Test-driven** & **Self-documenting**.
 
 ## Experience
 
-**2020-Now**: Fullstack & DevOps @[Sedomicilier.fr](https://sedomicilier.fr/)
+**2021-Now**: Fullstack & DevOps @[Etalab](https://www.etalab.gouv.fr/)
+
+**2020-2021**: Fullstack, DevOps & DPO @[Sedomicilier.fr](https://sedomicilier.fr/)
 
 **2017-2020**: Fullstack & DevOps @[Etalab](https://www.etalab.gouv.fr/)
 
@@ -34,7 +36,7 @@ And many small things ! Check out [My Portfolio](./Portfolio.md) or [My Github](
 
 ## Secondary Skills
 
-Ansible | Apollo | AWS | Bash | C\* | Docker | Git | CircleCI | Continuous deployment | Continous Integration | CSS3 | Cypress | ES6 | Go\* | GraphQL | HTML5 | Jest | MySQL-MariaDB\* | Nginx | Nightwatch | PostgreSQL | Rspec | Sass-Scss | Solr | Stripe | TDD-BDD | TypeScript | Unix | WebPack | Zendesk
+Ansible | Apollo | AWS | Bash | C\* | Docker | Git | CircleCI | Continuous deployment | Continous Integration | CSS3 | Cypress | ES6 | Express.js\* | Go\* | GraphQL | HTML5 | Jest | MySQL-MariaDB\* | Nginx | Nightwatch | Node.js | PostgreSQL | Rspec | Sass-Scss | Solr | Stripe | TDD-BDD | TypeScript | Unix | WebPack | Zendesk
 
 _\*Only used in side projects_
 

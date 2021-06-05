@@ -1,2 +1,3 @@
 /.vuepress/dist/*
 howto.txt
+node_modules

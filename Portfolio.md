@@ -9,15 +9,6 @@ The code for most of my work can be found on [github](https://github.com/samuelf
 
 ## I Got Paid For This, And My Team Too
 
-### Sedomicilier
-
-![Portfolio_sedomicilier](./assets/portfolio_sedom.png)
-
-- Fullstack + Devops + Data Protection Officer at Sedomicilier.fr
-- Fully automated domiciliation solution & Affiliated services
-- Work on legacy code, developed new features, implemented quality processes
-- Ruby on Rails monolith with React, TypeScript, GraphQL frontends, on an AWS infrastructure.
-
 ### API Entreprise
 
 ![Portfolio_api_entreprise](./assets/portfolio_apientreprise.svg)
@@ -26,6 +17,15 @@ The code for most of my work can be found on [github](https://github.com/samuelf
 - At the heart of the French Digital Transformation
 - Develop and maintain the API Entreprise, the official french governement API for confidential company data
 - Ruby on Rails, Vue.js, with a Microservice architecture, deployed with Ansible
+
+### Sedomicilier
+
+![Portfolio_sedomicilier](./assets/portfolio_sedom.png)
+
+- Fullstack + Devops + Data Protection Officer at Sedomicilier.fr
+- Fully automated domiciliation solution & Affiliated services
+- Work on legacy code, developed new features, implemented quality processes
+- Ruby on Rails monolith with React, TypeScript, GraphQL frontends, on an AWS infrastructure.
 
 ## I Got Paid For This, (Mostly) By Myself
 
