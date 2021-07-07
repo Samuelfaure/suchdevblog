@@ -43,6 +43,12 @@ module.exports = {
           '/guides/UploadFilesFromVueToRails',
           '/guides/TestAllYourRoutesInRails.md'
         ]
+      },
+      {
+        title: 'Opinions',
+        children: [
+              '/opinions/WhyOurWorkCultureSucks',
+            ]
       }
     ]
   }
