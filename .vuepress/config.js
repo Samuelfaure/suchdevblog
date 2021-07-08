@@ -48,6 +48,7 @@ module.exports = {
         title: 'Opinions',
         children: [
               '/opinions/WhyOurWorkCultureSucks',
+              '/opinions/TechnicalDebtKitchen'
             ]
       }
     ]

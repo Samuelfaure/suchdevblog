@@ -49,3 +49,4 @@ footer: CC-BY-4.0 Licensed | Copyright © 2018-present by Samuel Faure <3
 
 -[Why our work culture sucks](./opinions/WhyOurWorkCultureSucks.md)
 
+-[The Technical Debt explained with a kitchen analogy](./opinions/TechnicalDebtKitchen.md)
