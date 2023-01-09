@@ -1,4 +1,4 @@
-import {defaultTheme} from 'vuepress'
+import { defaultTheme } from 'vuepress'
 
 export default {
   title: 'Such Dev Blog',
@@ -39,12 +39,6 @@ export default {
           '/opinions/WhyOurWorkCultureSucks',
           '/opinions/TechnicalDebtKitchen',
           '/opinions/MarieKondo'
-        ]
-      },
-      {
-        title: 'Demos',
-        children: [
-          '/demos/SuperDuperEightQueens',
         ]
       },
       {
