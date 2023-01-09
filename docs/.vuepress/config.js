@@ -13,12 +13,13 @@ export default {
     navbar: [
       {text: 'Who am I ?', link: '/WhoAmI'}
     ],
+    sidebarDepth: 1,
     sidebar: [
       '/Summary.md',
       '/WhoAmI',
       '/Portfolio',
       {
-        title: 'Resources',
+        text: 'Resources',
         children: [
           '/resources/BeginnersResources',
           '/resources/IntermediateResources',
@@ -26,7 +27,7 @@ export default {
         ]
       },
       {
-        title: 'Lessons',
+        text: 'Lessons',
         children: [
           '/lessons/HowToStartCSS.md',
           '/lessons/HowToLearnGit.md',
@@ -34,7 +35,7 @@ export default {
         ]
       },
       {
-        title: 'Opinions',
+        text: 'Opinions',
         children: [
           '/opinions/WhyOurWorkCultureSucks',
           '/opinions/TechnicalDebtKitchen',
@@ -42,7 +43,7 @@ export default {
         ]
       },
       {
-        title: 'Tutorials',
+        text: 'Tutorials',
         children: [
           '/guides/BuildYourOwnSystem',
           '/guides/TestingAnsibleScriptsWithVagrant',
