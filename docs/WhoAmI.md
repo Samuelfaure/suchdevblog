@@ -42,7 +42,7 @@ _\*Only used in side projects_
 
 ## I love
 
-Coding - Art - Music - Design - Arduinos - Video games - Helping others.
+Coding - Art - Music - Design - Video games - Helping others.
 
 ## Contact Me
 
