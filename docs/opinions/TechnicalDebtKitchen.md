@@ -39,7 +39,7 @@ You just got hired in a new, promising restaurant: "The Unicorn". The pay is goo
 
 Then on your first morning, you enter the kitchen and this is what you see:
 
-![Very dirty kitchen](../assets/kitchen_dirty.jpg)
+![Very dirty kitchen](/images/kitchen_dirty.jpg)
 
 Your first thought, obviously, is "What a f**** mess. This needs to be cleaned immediately and urgently". But the manager tells you there is no time, customers are arriving right now, so you'd better start cooking this instant.
 
@@ -51,7 +51,7 @@ Working in a dirty kitchen is extremely depressing. It will make everything you 
 
 Now imagine instead that this is what you saw when you arrived:
 
-![Very clean kitchen](../assets/kitchen_clean.jpg)
+![Very clean kitchen](/images/kitchen_clean.jpg)
 
 Clean. Polished. Everything well organized, easy to access. Just beautiful.
 

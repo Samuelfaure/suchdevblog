@@ -11,7 +11,7 @@ The code for most of my work can be found on [github](https://github.com/samuelf
 
 ### API Entreprise
 
-![Portfolio_api_entreprise](./assets/portfolio_apientreprise.svg)
+![Portfolio_api_entreprise](/images/portfolio_apientreprise.svg)
 
 - Fullstack + devops at Etalab (DINSIC), Service of the Prime Minister
 - At the heart of the French Digital Transformation
@@ -20,7 +20,7 @@ The code for most of my work can be found on [github](https://github.com/samuelf
 
 ### Sedomicilier
 
-![Portfolio_sedomicilier](./assets/portfolio_sedom.png)
+![Portfolio_sedomicilier](/images/portfolio_sedom.png)
 
 - Fullstack + Devops + Data Protection Officer at Sedomicilier.fr
 - Fully automated domiciliation solution & Affiliated services
@@ -31,25 +31,24 @@ The code for most of my work can be found on [github](https://github.com/samuelf
 
 ### Entreprise.data.gouv.fr
 
-![Portfolio_data_entreprise](./assets/portfolio_entreprise.png)
+![Portfolio_data_entreprise](/images/portfolio_entreprise.png)
 
 - The Open Data reference for all French Companies and Associations.
 - Vue.js Frontend
-- Powered by 3 Rails API (I wrote 2 of them)
-- Design by Thimy from [Codeurs en Liberté](https://www.xn--codeursenlibert-pnb.fr/)
+- Powered by 3 Rails API (wrote 2 of them)
 
 ## I Got No Money But I Had Fun
 
 ### Is that a banana ?
 
-![Portfolio_banana](./assets/portfolio_banana.png)
+![Portfolio_banana](/images/portfolio_banana.png)
 
 - Fun weekend project using Vue.js and TensorFlow.js
 - Analyze pics of bananas with a client-side neural network
 
 ### Archlinux system: Nostalgia Drive
 
-![Portfolio_archtheme](./assets/portfolio_archtheme.png)
+![Portfolio_archtheme](/images/portfolio_archtheme.png)
 
 - My own Archlinux system built from scratch
 - Designed with its vaporwave / retrowave theme

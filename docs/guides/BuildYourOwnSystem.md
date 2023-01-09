@@ -8,7 +8,7 @@ footer: CC-BY-4.0 Licensed | Copyright © 2018-present by Samuel Faure <3
 
 This article was initially written on [dev.to](https://dev.to/samuelfaure/build-your-own-system-with-archlinux-240o/)
 
-![ArchLinux intro](../assets/archlinux_intro.jpg)
+![ArchLinux intro](/images/archlinux_intro.jpg)
 
 I wrote a comment on dev.to recently that gathered quite some attention; It was about my custom Arch system. I felt like it would be useful to give a 101 how-to guide so people that are interested can enjoy the process of building their own system as well.
 
@@ -43,7 +43,7 @@ Arch linux goes in the opposite direction. The philosophy of Arch can be summed 
 ## What does it look like ?
 
 When you boot Arch Linux for the first time, you'll be greeted by this :
-![ArchLinux Command Line](../assets/archlinux_commandline.jpg)
+![ArchLinux Command Line](/images/archlinux_commandline.jpg)
 
 A simple command line. If you want more, you'll have to build it yourself.
 
@@ -51,7 +51,7 @@ A simple command line. If you want more, you'll have to build it yourself.
 
 There's the good part: since you start from nothing, nothing is stopping you from doing whatever you want with your computer. The only limit is your imagination. Here's the same system some time after:
 
-![ArchLinux Result 1](../assets/archlinux_result1.jpg)
+![ArchLinux Result 1](/images/archlinux_result1.jpg)
 
 Prettier, right ?
 
@@ -85,7 +85,7 @@ For the configuration, you will obviously spend some time reading the documentat
 
 For the choice of packages, I can give you some pointers (pun intended).
 
-![ArchLinux Packages](../assets/archlinux_packages.jpeg)
+![ArchLinux Packages](/images/archlinux_packages.jpeg)
 
 ## Some packages that might interest you
 
@@ -117,7 +117,7 @@ A Tile window manager is a whole other paradigm, where each program simply opens
 
 This made much more sense to me and seemed way more practical. It will require some time to adapt for a beginner, but it's worth it.  I'd recommend i3 (or even i3-gaps, that I find more aesthetically pleasing).
 
-![ArchLinux Result 2](../assets/archlinux_result2.jpeg)
+![ArchLinux Result 2](/images/archlinux_result2.jpeg)
 
 Some great desktop environments are available if you want a more classic user experience (KDE, GNOME...).
 
@@ -145,7 +145,7 @@ In the end I went with Termite for the great VIM-like bindings that allows me to
 
 For more packages, I'll advise you to check out the amazing pieces at [unixporn subreddit](https://www.reddit.com/r/unixporn/top/?t=all)
 
-![ArchLinux Logo](../assets/archlinux_logo.png)
+![ArchLinux Logo](/images/archlinux_logo.png)
 
 ## How to save my precious work ?
 

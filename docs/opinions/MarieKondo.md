@@ -8,7 +8,7 @@ footer: CC-BY-4.0 Licensed | Copyright © 2018-present by Samuel Faure <3
 
 Marie Kondo is that Japanese woman who became famous with her method for reaching a tidy home and a tidy life.
 
-![An image showing Marie Kondo](../assets/marie_kondo.jpg)
+![An image showing Marie Kondo](/images/marie_kondo.jpg)
 
 Her method can be summed up as:
 

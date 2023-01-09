@@ -6,7 +6,7 @@ footer: MIT Licensed | Copyright © 2018-present by Samuel Faure <3
 
 # The Beginner WebDev guide to the galaxy
 
-<div style="text-align:center"><img style="width: 15em;" src="../assets/rocket.svg"/></div>
+<div style="text-align:center"><img style="width: 15em;" src="/images/rocket.svg"/></div>
 
 Starting a WebDev career is hard. Learning how to code isn't very complicated, but learning the _full job_ is something else altogether.
 
