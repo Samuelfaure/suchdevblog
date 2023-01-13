@@ -62,6 +62,12 @@ Dunno what to code ? Here are ideas.
 
 What is SSR / CSR ? An historical explanation.
 
+### What they didn't teach you about Software Engineering
+
+[Link](https://vadimkravcenko.com/shorts/things-they-didnt-teach-you/)
+
+The real world is not like school.
+
 ## Javascript
 
 ### Javascript for dinosaurs
