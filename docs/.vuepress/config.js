@@ -45,12 +45,13 @@ export default {
       {
         text: 'Tutorials',
         children: [
-          '/guides/BuildYourOwnSystem',
-          '/guides/TestingAnsibleScriptsWithVagrant',
-          '/guides/HowToUseSolrWithRails',
-          '/guides/DebuggingSolrSunspot',
-          '/guides/UploadFilesFromVueToRails',
-          '/guides/TestAllYourRoutesInRails.md'
+          '/tutorials/BuildYourOwnSystem',
+          '/tutorials/TestingAnsibleScriptsWithVagrant',
+          '/tutorials/HowToUseSolrWithRails',
+          '/tutorials/FilterAnythingInRails',
+          '/tutorials/DebuggingSolrSunspot',
+          '/tutorials/UploadFilesFromVueToRails',
+          '/tutorials/TestAllYourRoutesInRails.md'
         ]
       }
     ]
