@@ -10,4 +10,4 @@ npx vuepress dev docs
 
 ## Deploy
 
-Just push on `release` branch
+Just push on `main` branch and `release` branch should update
