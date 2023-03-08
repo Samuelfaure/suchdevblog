@@ -31,6 +31,7 @@ export default {
         children: [
           '/lessons/HowToStartCSS.md',
           '/lessons/HowToLearnGit.md',
+          '/lessons/AtomicGitCommits.md',
           '/lessons/ExplainingRubySingletonClass.md'
         ]
       },
