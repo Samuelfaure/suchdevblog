@@ -6,8 +6,8 @@ you're welcome at [https://suchdevblog.com/](https://suchdevblog.com/)
 
 ## Dev
 
-npx vuepress dev docs
+`npx vuepress dev docs`
 
 ## Deploy
 
-Just push on `main` branch and `release` branch should update
+Just push on `main` branch and `release` branch will update.
