@@ -32,11 +32,17 @@ List of webdev skills to master.
 
 More in-depth look at the WebDev roadmap for frontend.
 
-### Oh shit, git !
+### Oh shit, git
 
 [Link](http://ohshitgit.com/)
 
 While learning git, you WILL need this to save your sorry ass.
+
+### Git visualized
+
+[Link](https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1)
+
+This might help you understand Git a little bit better.
 
 ### The 7 ranks of a programmer
 

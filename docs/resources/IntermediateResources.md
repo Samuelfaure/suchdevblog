@@ -37,6 +37,12 @@ Basics for writing clear code.
 
 Learn correct versionning.
 
+### Rules for developers
+
+[Link](https://thoughtbot.com/blog/sandi-metz-rules-for-developers)
+
+Simple best-practices for programming.
+
 ## Develop your skills
 
 ### How To DevOps
@@ -44,6 +50,26 @@ Learn correct versionning.
 [Link](https://github.com/Tikam02/DevOps-Guide)
 
 So you like computers ? Try DevOps.
+
+### The Code Review Pyramid
+
+[Link](https://www.morling.dev/blog/the-code-review-pyramid/)
+
+You need to do good code reviews!
+
+### Falsehoods programmers believe about names
+
+[Link](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
+
+Also check out the version for Addresses.
+
+## Intermediate CSS
+
+### Shame.css
+
+[Link](https://csswizardry.com/2013/04/shame-css/)
+
+Shaaaaaaame on you.
 
 ## Intermediate Javascript
 
