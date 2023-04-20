@@ -12,12 +12,12 @@ footer: CC-BY-4.0 Licensed | Copyright © 2018-present by Samuel Faure \<3
 
 - Fluent :fr: :uk:
 - Backend with **Ruby on Rails**
-- Frontend with **Vue.js** and **React**
+- Frontend with **Vue.js**, **React**
 - DevOps, Continuous Integration
 
 My code is **Test-driven** & **Self-documenting**.
 
-## Experience
+## Experience: 7 years
 
 **2021-Now**: Fullstack & DevOps @[Etalab](https://www.etalab.gouv.fr/)
 
@@ -27,22 +27,26 @@ My code is **Test-driven** & **Self-documenting**.
 
 **2017-2020**: Fullstack & DevOps @[Etalab](https://www.etalab.gouv.fr/)
 
-And many small things ! Check out [My Portfolio](./Portfolio.md) or [My Github](https://github.com/samuelfaure).
+And more. Check out [My Portfolio](./Portfolio.md) or [My Github](https://github.com/samuelfaure).
 
 ## Education
 
 - Outstanding results at coding school **42 Paris**.
 - Engineering degree in **Food Science**. Just for fun.
 
-## Secondary Skills
+## Skills
 
-Ansible | Apollo | AWS | Bash | C\* | Docker | Git | CircleCI | Continuous deployment | Continous Integration | CSS3 | Cypress | Elasticsearch | ES6 | Express.js\* | Go\* | GraphQL | HTML5 | Jest | MySQL-MariaDB\* | Nginx | Nightwatch | Node.js | PostgreSQL | Rspec | Sass-Scss | Solr | Stripe | TDD-BDD | TypeScript | Unix | WebPack | Zendesk
+- **Technical**: If you need it, I already know it | If I don't, then I will.
 
-_\*Only used in side projects_
+- **Soft**: Great communication | pleasant to work with | works great by myself & in a team.
+
+- **Management**: Successfully trained many students and interns.
+
+Check out my articles on [Dev.to](https://dev.to/samuelfaure) or this very blog.
 
 ## I love
 
-Coding - Art - Music - Design - Video games - Helping others.
+Coding - Music - Design - Video games - Writing - Helping others.
 
 ## Contact Me
 
