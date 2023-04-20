@@ -38,9 +38,9 @@ And more. Check out [My Portfolio](./Portfolio.md) or [My Github](https://github
 
 - **Technical**: If you need it, I already know it | If I don't, then I will.
 
-- **Soft**: Great communication | pleasant to work with | works great by myself & in a team.
+- **Social**: Great communication | pleasant to work with | works great by myself & in a team.
 
-- **Management**: Successfully trained many students and interns.
+- **Managerial**: Successfully trained many students and interns.
 
 Check out my articles on [Dev.to](https://dev.to/samuelfaure) or this very blog.
 
