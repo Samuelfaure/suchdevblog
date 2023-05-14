@@ -34,6 +34,7 @@ export default {
       {
         text: 'Lessons',
         children: [
+          '/lessons/ProductivityAndWellBeing.md',
           '/lessons/HowToStartCSS.md',
           '/lessons/HowToLearnGit.md',
           '/lessons/AtomicGitCommits.md',

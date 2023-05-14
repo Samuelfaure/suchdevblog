@@ -3,6 +3,9 @@ title: How to Learn Git Slowly
 description: Much Git, wow, very Github.
 footer: CC-BY-4.0 Licensed | Copyright © 2018-present by Samuel Faure <3
 ---
+
+This article was first published on [Dev.to](https://dev.to/samuelfaure/how-to-learn-git-slowly-38fa). Thanks to the team for choosing it as a Top 7 weekly!
+
 # How to Learn Git Slowly
 
 *This post is dedicated to my wife who, despite being one of the smartest person I know, still sucks at Git.*

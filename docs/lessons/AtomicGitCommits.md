@@ -8,7 +8,7 @@ footer: CC-BY-4.0 Licensed | Copyright © 2018-present by Samuel Faure <3
 
 *Atomic: of or forming a single irreducible unit or component in a larger system.*
 
-This article was first published on [Dev.to](https://dev.to/samuelfaure/how-atomic-git-commits-dramatically-increased-my-productivity-and-will-increase-yours-too-4a84).
+_This article was first published on [Dev.to](https://dev.to/samuelfaure/how-atomic-git-commits-dramatically-increased-my-productivity-and-will-increase-yours-too-4a84). Thanks to the team for choosing it as a Top 7 weekly!_
 
 ## Knowing VS Actually Knowing
 
