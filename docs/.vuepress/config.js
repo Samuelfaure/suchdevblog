@@ -16,11 +16,15 @@ export default {
   ],
   theme: defaultTheme({
     navbar: [
-      {text: 'Who am I ?', link: '/WhoAmI'}
+      {text: 'Who am I ?', link: '/WhoAmI'},
+      {text: 'Portfolio', link: '/Portfolio'},
+      {text: 'Resources', link: '/resources/BeginnersResources'},
+      {text: 'Lessons', link: '/lessons/ProductivityAndWellBeing'},
+      {text: 'Opinions', link: '/opinions/WhyOurWorkCultureSucks'},
+      {text: 'Tutorials', link: '/tutorials/BuildYourOwnSystem'}
     ],
     sidebarDepth: 1,
     sidebar: [
-      '/Summary.md',
       '/WhoAmI',
       '/Portfolio',
       {

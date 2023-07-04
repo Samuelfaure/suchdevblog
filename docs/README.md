@@ -9,7 +9,7 @@ heroImage: /images/logo.png
 
 ::: tip
 Looking for a competent webdev ?
-Head directly to my [presentation](./WhoAmI.md), check my [portfolio](./Portfolio.md) and/or my [github](https://github.com/samuelfaure/).
+Head directly to my [presentation](./WhoAmI.md).
 :::
 
 <p style='text-align: center; color: #4e6e8e;'>
