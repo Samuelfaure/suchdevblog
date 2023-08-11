@@ -18,10 +18,10 @@ export default {
     navbar: [
       {text: 'Who am I ?', link: '/WhoAmI'},
       {text: 'Portfolio', link: '/Portfolio'},
-      {text: 'Resources', link: '/resources/BeginnersResources'},
-      {text: 'Lessons', link: '/lessons/ProductivityAndWellBeing'},
-      {text: 'Opinions', link: '/opinions/WhyOurWorkCultureSucks'},
-      {text: 'Tutorials', link: '/tutorials/BuildYourOwnSystem'}
+      {text: 'Resources', link: '/resources'},
+      {text: 'Lessons', link: '/lessons'},
+      {text: 'Opinions', link: '/opinions'},
+      {text: 'Tutorials', link: '/tutorials'}
     ],
     sidebarDepth: 1,
     sidebar: [
@@ -39,17 +39,17 @@ export default {
         text: 'Lessons',
         children: [
           '/lessons/ProductivityAndWellBeing.md',
-          '/lessons/HowToStartCSS.md',
-          '/lessons/HowToLearnGit.md',
           '/lessons/AtomicGitCommits.md',
+          '/lessons/HowToLearnGit.md',
+          '/lessons/HowToStartCSS.md',
           '/lessons/ExplainingRubySingletonClass.md'
         ]
       },
       {
         text: 'Opinions',
         children: [
-          '/opinions/WhyOurWorkCultureSucks',
           '/opinions/TechnicalDebtKitchen',
+          '/opinions/WhyOurWorkCultureSucks',
           '/opinions/MarieKondo'
         ]
       },
@@ -57,12 +57,12 @@ export default {
         text: 'Tutorials',
         children: [
           '/tutorials/BuildYourOwnSystem',
+          '/tutorials/UploadFilesFromVueToRails',
+          '/tutorials/FilterAnythingInRails',
+          '/tutorials/TestAllYourRoutesInRails.md',
           '/tutorials/TestingAnsibleScriptsWithVagrant',
           '/tutorials/HowToUseSolrWithRails',
-          '/tutorials/FilterAnythingInRails',
-          '/tutorials/DebuggingSolrSunspot',
-          '/tutorials/UploadFilesFromVueToRails',
-          '/tutorials/TestAllYourRoutesInRails.md'
+          '/tutorials/DebuggingSolrSunspot'
         ]
       }
     ]
