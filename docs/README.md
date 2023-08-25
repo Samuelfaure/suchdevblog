@@ -4,7 +4,7 @@ description: A minimalist webdev blog for sharing knowledge
 home: true
 actionText: Read articles
 actionLink: Summary
-heroImage: /images/logo.png
+heroImage: /images/logo.webp
 ---
 
 ::: tip

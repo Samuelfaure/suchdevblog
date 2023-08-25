@@ -16,7 +16,7 @@ I wrote a previous article about [how to start learning CSS](./HowToStartCss) - 
 
 Now it's time to master Git. Git is... not easy to master.
 
-![Xkcd comic about Git](/images/xkcd_git.png)
+![Xkcd comic about Git](/images/xkcd_git.webp)
 
 [Comic from XKCD](https://xkcd.com/)
 

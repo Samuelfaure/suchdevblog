@@ -7,9 +7,9 @@ export default {
     {lang: 'en', label: 'English', path: '/', selectText: 'Languages'},
   ],
   head: [
-    ['link', {rel: 'apple-touch-icon', href: '/apple-touch-icon.png', size: '180x180'}],
-    ['link', {rel: 'icon', type: 'image/png', href: '/favicon-32x32.png', size: '32x32'}],
-    ['link', {rel: 'icon', type: 'image/png', href: '/favicon-16x16.png', size: '16x16'}],
+    ['link', {rel: 'apple-touch-icon', href: '/apple-touch-icon.webp', size: '180x180'}],
+    ['link', {rel: 'icon', type: 'image.webp', href: '/favicon-32x32.webp', size: '32x32'}],
+    ['link', {rel: 'icon', type: 'image.webp', href: '/favicon-16x16.webp', size: '16x16'}],
     ['link', {rel: 'manifest', href: '/site.webmanifest'}],
     ['meta', {name: 'msapplication-TileColor', content: '#da532c'}],
     ['meta', {name: 'theme-color', content: '#ffffff'}],

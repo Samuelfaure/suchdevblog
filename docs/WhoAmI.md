@@ -6,7 +6,7 @@ footer: CC-BY-4.0 Licensed | Copyright © 2018-present by Samuel Faure \<3
 
 # Samuel Faure, Fullstack developer.
 
-![DevPic](/images/devpic.jpeg)
+![DevPic](/images/devpic.webp)
 
 ## Main Skills
 

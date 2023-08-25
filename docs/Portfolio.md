@@ -20,7 +20,7 @@ The code for most of my work can be found on [github](https://github.com/samuelf
 
 ### Sedomicilier
 
-![Portfolio_sedomicilier](/images/portfolio_sedom.png)
+![Portfolio_sedomicilier](/images/portfolio_sedom.webp)
 
 - Fullstack + Devops + Data Protection Officer at Sedomicilier.fr
 - Fully automated domiciliation solution & Affiliated services
@@ -31,7 +31,7 @@ The code for most of my work can be found on [github](https://github.com/samuelf
 
 ### Entreprise.data.gouv.fr
 
-![Portfolio_data_entreprise](/images/portfolio_entreprise.png)
+![Portfolio_data_entreprise](/images/portfolio_entreprise.webp)
 
 - The Open Data reference for all French Companies and Associations.
 - Vue.js Frontend
@@ -41,14 +41,14 @@ The code for most of my work can be found on [github](https://github.com/samuelf
 
 ### Is that a banana ?
 
-![Portfolio_banana](/images/portfolio_banana.png)
+![Portfolio_banana](/images/portfolio_banana.webp)
 
 - Fun weekend project using Vue.js and TensorFlow.js
 - Analyze pics of bananas with a client-side neural network
 
 ### Archlinux system: Nostalgia Drive
 
-![Portfolio_archtheme](/images/portfolio_archtheme.png)
+![Portfolio_archtheme](/images/portfolio_archtheme.webp)
 
 - My own Archlinux system built from scratch
 - Designed with its vaporwave / retrowave theme

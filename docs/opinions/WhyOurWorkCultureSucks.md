@@ -100,7 +100,7 @@ Which explains why "Diversity is strength" is so rarely acted upon, and instead 
 
 How many times in your company did you actually hear "I think we would be more efficient / creative if our team was more diverse"? And then witnessed an actual plan for diversity being put into action? Speaking for myself, not very often.
 
-![Meme about Diversity](/images/meme_diversity.jpeg)
+![Meme about Diversity](/images/meme_diversity.webp)
 
 Everyone "believes" in diversity. Few people *actually* believe in it.
 
