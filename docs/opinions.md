@@ -6,6 +6,6 @@ footer: CC-BY-4.0 Licensed | Copyright © 2018-present by Samuel Faure <3
 
 # Opinions
 
-- [The Technical Debt explained with a kitchen analogy]('/opinions/TechnicalDebtKitchen')
-- [Why our work culture sucks]('/opinions/WhyOurWorkCultureSucks')
-- [The Marie Kondo guide for the Clean Developer]('/opinions/MarieKondo')
+- [The Technical Debt explained with a kitchen analogy](/opinions/TechnicalDebtKitchen)
+- [Why our work culture sucks](/opinions/WhyOurWorkCultureSucks)
+- [The Marie Kondo guide for the Clean Developer](/opinions/MarieKondo)
