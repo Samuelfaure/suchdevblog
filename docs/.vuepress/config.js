@@ -32,6 +32,7 @@ export default {
         children: [
           '/resources/BeginnersResources',
           '/resources/IntermediateResources',
+          '/resources/SeniorResources',
           '/resources/DesignResources'
         ]
       },
