@@ -19,13 +19,13 @@ My code is **Test-driven** & **Self-documenting**.
 
 ## Experience: 7 years
 
-**2021-Now**: Fullstack & DevOps @[Etalab](https://www.etalab.gouv.fr/)
+**2021-Now**: Fullstack & DevOps @[DINUM](https://www.numerique.gouv.fr/dinum//)
 
 **2020-2021**: Fullstack, DevOps & DPO @[Sedomicilier.fr](https://sedomicilier.fr/)
 
-**2017-2021**: Webdev mentor @[Openclassrooms.](https://openclassrooms.com/)
+**2017-2021**: Webdev mentor @[Openclassrooms](https://openclassrooms.com/)
 
-**2016-2020**: Fullstack & DevOps @[Etalab](https://www.etalab.gouv.fr/)
+**2016-2020**: Fullstack & DevOps @[DINUM](https://www.numerique.gouv.fr/dinum//)
 
 ## Education
 

@@ -5,20 +5,20 @@ footer: CC-BY-4.0 Licensed | Copyright © 2018-present by Samuel Faure <3
 ---
 # Portfolio
 
+Here are some things I've worked on over the year.
 The code for most of my work can be found on [github](https://github.com/samuelfaure/)
 
-## I Got Paid For This, And My Team Too
-
-### API Entreprise
+## DINUM (Direction Interministerielle du Numérique)
 
 ![Portfolio_api_entreprise](/images/portfolio_apientreprise.svg)
 
-- Fullstack + devops at Etalab (DINSIC), Service of the Prime Minister
-- At the heart of the French Digital Transformation
-- Develop and maintain the API Entreprise, the official french governement API for confidential company data
-- Ruby on Rails, Vue.js, with a Microservice architecture, deployed with Ansible
+- Fullstack + devops + basically everything
+- Working at the heart of French Digital Transformation at DINUM (Previously SGMAP/DINSIC/Etalab), Service of the Prime Minister
+- Develop and maintain API Entreprise and Particulier, the official French government APIs for data transit
+- As well as Datapass, an API habilitation tool, and many smaller project
+- Mostly Rails, some React, Ansible, but a lot of everything.
 
-### Sedomicilier
+## Sedomicilier
 
 ![Portfolio_sedomicilier](/images/portfolio_sedom.webp)
 
@@ -27,43 +27,37 @@ The code for most of my work can be found on [github](https://github.com/samuelf
 - Work on legacy code, developed new features, implemented quality processes
 - Ruby on Rails monolith with React, TypeScript, GraphQL frontends, on an AWS infrastructure.
 
-## I Got Paid For This, (Mostly) By Myself
+## OpenClassrooms
 
-### Entreprise.data.gouv.fr
+- Mentored students on the path to becoming a fullstack developer
+- Taught them, helped them & guided them
+- Learnt a lot from them too
+
+## Entreprise.data.gouv.fr
 
 ![Portfolio_data_entreprise](/images/portfolio_entreprise.webp)
 
 - The Open Data reference for all French Companies and Associations.
+- Deprecated, but lives on with [Annuaire des entreprises](https://annuaire-entreprises.data.gouv.fr/)
 - Vue.js Frontend
-- Powered by 3 Rails API (wrote 2 of them)
 
-## I Got No Money But I Had Fun
+## SIRENE as API
 
-### Is that a banana ?
+[Code on Github](https://github.com/etalab/sirene_as_api)
 
-![Portfolio_banana](/images/portfolio_banana.webp)
+- What started as my internship project became an API with millions of monthly calls
+- (Previously) the open data reference for all French Companies and Associations
+- Now deprecated in favor of the INSEE API
+- Rails, PostreSQL, Lucene Solr
 
-- Fun weekend project using Vue.js and TensorFlow.js
-- Analyze pics of bananas with a client-side neural network
+## Some fun side-projects
 
-### Archlinux system: Nostalgia Drive
+- Built a full-featured raytracer from scracth in pure C
+- Trained an AI model to [recognize pictures of bananas](https://github.com/Samuelfaure/is_that_a_banana)
+- Sometimes I [code my own music](https://github.com/Samuelfaure/sonic-pi-compositions)
+- Modified a [neon cactus into a music visualizer](https://github.com/Samuelfaure/neon_genesis_cactus) with some arduino chips
 
-![Portfolio_archtheme](/images/portfolio_archtheme.webp)
-
-- My own Archlinux system built from scratch
-- Designed with its vaporwave / retrowave theme
-- Have been using it ever since
-
-### Arduino project: Neon Genesis Cactus
-&nbsp;
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/AxgrOmg6wjI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-- Fun weekend project using some C, Vue.js, p5,js, an ESP8266 module and some soldering
-- The cactus will light on the music beat
-
-## What About School ?
-
-Many graphical projects in pure C, including a Wolf3D clone and a feature-rich Raytracer.
+-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/AxgrOmg6wjI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Contact Me
 
