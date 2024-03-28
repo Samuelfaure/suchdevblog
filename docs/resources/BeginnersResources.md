@@ -159,14 +159,6 @@ Real CSS breakpoints !
 
 Because we are in the 21th century.
 
-## Ruby and Rails
-
-### Strong params
-
-[Link](https://www.sitepoint.com/rails-4-quick-look-strong-parameters/)
-
-Because it took me quite some time to understand what were strong params.
-
 ## Recreation time
 
 ### If the world was created by a programmer (funny)
