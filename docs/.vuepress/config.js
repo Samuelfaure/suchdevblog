@@ -1,11 +1,12 @@
-import { defaultTheme } from 'vuepress'
+import { viteBundler } from '@vuepress/bundler-vite'
+import { defaultTheme } from '@vuepress/theme-default'
+import { defineUserConfig } from 'vuepress'
 
-export default {
+export default defineUserConfig({
+  bundler: viteBundler(),
+  lang: 'en-US',
   title: 'Such Dev Blog',
   description: 'Much code, very webdev.',
-  langs: [
-    {lang: 'en', label: 'English', path: '/', selectText: 'Languages'},
-  ],
   head: [
     ['link', {rel: 'apple-touch-icon', href: '/apple-touch-icon.webp', size: '180x180'}],
     ['link', {rel: 'icon', type: 'image.webp', href: '/favicon-32x32.webp', size: '32x32'}],
@@ -68,4 +69,4 @@ export default {
       }
     ]
   })
-}
+})
