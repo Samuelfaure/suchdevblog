@@ -10,7 +10,7 @@ The code for most of my work can be found on [github](https://github.com/samuelf
 
 ## DINUM (Direction Interministerielle du Numérique)
 
-![Portfolio_api_entreprise](/images/portfolio_apientreprise.svg)
+![Portfolio_dinum](/images/portfolio_dinum.webp)
 
 - Fullstack + devops + basically everything
 - Working at the heart of French Digital Transformation at DINUM (Previously SGMAP/DINSIC/Etalab), Service of the Prime Minister
@@ -35,7 +35,7 @@ The code for most of my work can be found on [github](https://github.com/samuelf
 
 ## Entreprise.data.gouv.fr
 
-![Portfolio_data_entreprise](/images/portfolio_entreprise.webp)
+![Portfolio_data_entreprise](/images/portfolio_entreprise_data_gouv.webp)
 
 - The Open Data reference for all French Companies and Associations.
 - Deprecated, but lives on with [Annuaire des entreprises](https://annuaire-entreprises.data.gouv.fr/)
