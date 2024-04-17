@@ -44,6 +44,7 @@ export default defineUserConfig({
           '/lessons/AtomicGitCommits.md',
           '/lessons/HowToLearnGit.md',
           '/lessons/HowToStartCSS.md',
+          '/lessons/HowToNotUseYourBrain.md',
           '/lessons/ExplainingRubySingletonClass.md'
         ]
       },
