@@ -4,6 +4,8 @@ description: Wow, so dumb, very productivity, much efficiency, wow.
 footer: CC-BY-4.0 Licensed | Copyright © 2018-present by Samuel-Zacharie Faure
 ---
 
+# 🧠 How to be a great software engineer without using your brain
+
 _This article was first featured on [Dev.to](https://dev.to/samuelfaure/how-to-be-a-great-software-engineer-without-using-your-brain-1g5k). Thanks to the editorial team for choosing it as a top 7 weekly!_
 
 ---
