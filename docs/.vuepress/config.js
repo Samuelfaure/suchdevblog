@@ -14,6 +14,7 @@ export default defineUserConfig({
     ['link', {rel: 'manifest', href: '/site.webmanifest'}],
     ['meta', {name: 'msapplication-TileColor', content: '#da532c'}],
     ['meta', {name: 'theme-color', content: '#ffffff'}],
+    ['script', {'data-goatcounter': 'https://suchdevblog.goatcounter.com/count', async: true, src: '//gc.zgo.at/count.js'}]
   ],
   theme: defaultTheme({
     navbar: [
