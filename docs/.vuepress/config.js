@@ -54,7 +54,8 @@ export default defineUserConfig({
         children: [
           '/opinions/TechnicalDebtKitchen',
           '/opinions/WhyOurWorkCultureSucks',
-          '/opinions/MarieKondo'
+          '/opinions/MarieKondo',
+          '/opinions/WhatOpenSourceIs'
         ]
       },
       {
