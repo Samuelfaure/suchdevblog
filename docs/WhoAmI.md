@@ -11,9 +11,8 @@ footer: CC-BY-4.0 Licensed | Copyright © 2018-present by Samuel Faure \<3
 ## Main Skills
 
 - Fluent :fr: :uk:
-- Backend with **Ruby on Rails**
-- Frontend with **Vue.js**, **React**
-- DevOps, Continuous Integration
+- Extremely versatile, from architecture to deployment
+- Most proficient in **Ruby on Rails** & **Node.js**
 
 My code is **Test-driven** & **Self-documenting**.
 
