@@ -55,7 +55,8 @@ export default defineUserConfig({
           '/opinions/TechnicalDebtKitchen',
           '/opinions/WhyOurWorkCultureSucks',
           '/opinions/MarieKondo',
-          '/opinions/WhatOpenSourceIs'
+          '/opinions/WhatOpenSourceIs',
+          '/opinions/WhyDiversityIsGreat'
         ]
       },
       {
