@@ -1,12 +1,12 @@
 ---
-title: 💵 Why Diversity is great for business, and why you should hire from bootcamps
+title: 💵 Why diversity is important, no, really, actually for real
 description: Wow, very diversity, many bootcamps
 footer: CC-BY-4.0 Licensed | Copyright © 2018-present by Samuel-Zacharie Faure
 ---
 
-# 💵 Why Diversity is great for business, and why you should hire from bootcamps
+# 💵 Why diversity is important, no, really, actually for real
 
-_Alternative title: Why diversity is important, no, really, actually for real_, also available on [Dev.to](https://dev.to/samuelfaure/why-diversity-is-important-no-really-actually-for-real-1b7l)
+_Alternative title: title: 💵 Why Diversity is great for business, and why you should hire from bootcamps_, also available on [Dev.to](https://dev.to/samuelfaure/why-diversity-is-important-no-really-actually-for-real-1b7l)
 
 No one really cares about diversity, and that's a huge mistake.
 
