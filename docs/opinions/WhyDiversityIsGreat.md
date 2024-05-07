@@ -48,7 +48,7 @@ When you have a diverse team, you have a team that can understand those differen
 
 Us tech wizards have all the power from the internet revolution right at our fingertips. We can build anything and solve many issues in the world. Yet, the amazing ideas the tech world came to were "How can I get food delivered efficiently at my doorstep" and "How can I get a taxi to come to me". Yes, those are the most pressing issues for a middle-class techbro. What about the rest of the world?
 
-But whatever, you've already built your food-delivery empire, now you need great engineers to make it run. Your goal is to make the best app possible both for your delivery workers, and for your clients.
+But whatever, you've already built your food-delivery empire, now you need great engineers to make it work. Your goal is to make the best app possible both for your delivery workers, and for your clients.
 
 Turns out delivery workers are mostly people who don't have a computer science degree. They're not of the same socioeconomic background as your average techbro. In fact, their lives are so drastically different that you probably cannot design something that works for them without having someone of that same background in your team.
 

@@ -10,4 +10,4 @@ footer: CC-BY-4.0 Licensed | Copyright © 2018-present by Samuel Faure <3
 - [Why our work culture sucks](/opinions/WhyOurWorkCultureSucks)
 - [The Marie Kondo guide for the Clean Developer](/opinions/MarieKondo)
 - [💡What contributing to Open-source is, and what it isn't](/opinions/WhatOpenSourceIs)
-- [💵 Why Diversity is great for business, and why you should hire from bootcamps](/opinions/WhyDiversityIsGreat)
+- [💵 Why diversity is important, no, really, actually for real](/opinions/WhyDiversityIsGreat)
