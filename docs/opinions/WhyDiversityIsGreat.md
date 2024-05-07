@@ -18,7 +18,7 @@ But good news! Sometimes, doing the _moral thing_ also makes you money. Diversit
 
 Also, bad news: no one seems to actually realise this. Hence this article. I want to explain why diversity **actually** is a profitable endeavor, while avoiding any dishonest coping.
 
-While you're reading this, I will kindly ask that you to throw away all ethics, and think purely like a cold, calculating capitalist machine. Let's go:
+While you're reading this, I will kindly ask that you throw away all ethics, and think purely like a cold, calculating capitalist machine. Let's go:
 
 ## Skills means money
 
@@ -26,7 +26,7 @@ Let's think in terms of what a company _needs_. A company needs **knowledge** an
 
 In tech, we care about _hard skills_. A great knowledge of languages and frameworks. I would argue those are the skills that are both the easiest to develop, to learn, and to find on the job market.
 
-We also talk about **soft skills** such as _communication_ and _teamwork_. Those are the skills that are the hardest to develop, to learn, and to find in the job market. Seasoned developers will also argue that those are the most importants skills. You can have a React genius in your team, it will only get you so far if you're unable to communicate with them or if they can't work with the team.
+We also talk about **soft skills** such as _communication_ and _teamwork_. Those are the skills that are the hardest to develop, to learn, and to find on the job market. Seasoned developers will also argue that those are the most importants skills. You can have a React genius in your team, it will only get you so far if you're unable to communicate with them or if they can't work with the team.
 
 I would argue that there are skills that are even harder to measure, to develop, and to acquire. Let's call them _softer skills_.
 
@@ -46,7 +46,7 @@ When you're building a product, you're building it for someone. You're building 
 
 When you have a diverse team, you have a team that can understand those different needs, those different ways of thinking, those different ways of using your product. You have a team that can build a product that is better suited for a diverse audience.
 
-Us tech wizards have all the power from the internet revolution right at our fingertips. We can build anything and solve almost any issue in the world. Yet, the amazing ideas the tech world came to were "How can I get food delivered efficiently at my doorstep" and "How can I get a taxi to come to me". Yes, those are the most pressing issues for a middle-class techbro. What about the rest of the world?
+Us tech wizards have all the power from the internet revolution right at our fingertips. We can build anything and solve many issues in the world. Yet, the amazing ideas the tech world came to were "How can I get food delivered efficiently at my doorstep" and "How can I get a taxi to come to me". Yes, those are the most pressing issues for a middle-class techbro. What about the rest of the world?
 
 But whatever, you've already built your food-delivery empire, now you need great engineers to make it run. Your goal is to make the best app possible both for your delivery workers, and for your clients.
 
@@ -54,7 +54,7 @@ Turns out delivery workers are mostly people who don't have a computer science d
 
 You will also want to deliver food to people who are not middle-class techbros. You will want to deliver food to people who are not able to use a computer as easily as you do, use a smartphone as easily as you do, or even are not able to read as well as you do.
 
-_Sidenote: sometimes, I really wonder if the executives at UberEats realise that a \_lot_ of their clients are quite high on weed when they order food, and if they take this into account while designing their user experience. My guess is they don't.\_
+_Sidenote: sometimes, I really wonder if the executives at UberEats realise that a *lot* of their clients are quite high on weed when they order food, and if they take this into account while designing their user experience. My guess is they don't._
 
 This is why you need diversity: to build a product that works for everyone, and get all the money from all the people.
 
@@ -72,18 +72,18 @@ This is why you should heavily consider hiring _some_ bootcamp graduates. They o
 
 In terms of hard skills, it is absolutely clear that 5 years of computer science from a reputable university absolutely obliterates 6 months of React bootcamp. You just can't get solid fundamentals in such a short period of time. But in term of softer skills, bootcamp graduates often have a lot to bring to the table.
 
-I interviewed a bunch of applicants, CS graduates and bootcampers. Contrary to popular belief, I would argue it is often less risky to hire a bootcamper. Usually, if they're in the top of their classes, they're a sure bet. I would hire the top 3 graduates in a class of 20 bootcampers in a heartbeat. The CS graduates on the other hand, well, while they usually have solid fundamentals, you can't always be so sure they'll bring much more to the table, **especially** if you're team is already 90% CS graduates.
+I interviewed a bunch of applicants, CS graduates and bootcampers. Contrary to popular belief, I would argue it is often less risky to hire a bootcamper. Usually, if they're in the top of their classes, they're a sure bet. I would hire the top 3 graduates in a class of 20 bootcampers in a heartbeat. The CS graduates on the other hand, well, while they usually have solid fundamentals, you can't always be so sure they'll bring much more to the table, **especially** if your team is already 90% CS graduates.
 
 #### Experience is found in the weirdest places
 
-[One of my articles](/opinions/WhatOpenSourceIs.md) recently got trendy on HackerNews. Comments were mostly supportive, but more than a few were quite vitriolic, dismissing my work as the uneducated opinion from someone who graduated with "A fake degree from a fake school".
+[One of my articles](/opinions/WhatOpenSourceIs.md) recently got trendy on HackerNews. Comments were mostly supportive, but a few were quite vitriolic, dismissing my work as the uneducated opinion from someone who graduated with "A fake degree from a fake school".
 This is because I studied at 42 coding school in Paris, a fact I do not hide. However, I **absolutely disagree with the statement that I graduated with a fake degree from a fake school**. And this is because I never even graduated from 42. I dropped out as soon as I got a good job.
 
 I have been wise enough to not engage with the vitriol - and this wisdom comes from my past experiences. Because in another life, long before finding my way in tech, I had already established myself as a microcelebrity content creator in a completely different domain. I got the experience of do and don't. Also, you're still reading, so my guess is that I manage to stay interesting enough, and where do you think I got that skill from?
 
 Amongst other things I did in my life, I got an actual-not-fake engineering degree in food science. I designed energy drinks. I spent a year in the jungle meeting amazonian tribes to study how they made juices from palm trees fruits. I spent three months just walking from France to Portugal. I taught physics and chemistry in high school. I'm not sure how it all relates to a job in tech, but I know the sum of my experiences matters to what I bring to the table.
 
-During my fake degree at my fake school, I met incredible people. A professional poker player, now working in legaltech. A genius that wrote his first C program at the age of 12, because he was bored of Javascript that he learnt at the age of 10. An entrepreneur from marketing school that launched his startup right after. He's now a multi-millionaire. Too bad he also dropped out, he could have been a billionaire.
+During my fake studies at my fake school, I met incredible people. A professional poker player, now working in legaltech. A genius that wrote his first C program at the age of 12, because he was bored of Javascript which he learnt at the age of 10. An entrepreneur from marketing school that launched his startup right after. He's now a multi-millionaire. Too bad he also dropped out, he could have been a billionaire.
 
 A company hires **people**. Experienced, skilled people. Always hiring the same kind of people would be like furnishing your toolshed with only hammers. Hammers are important, they're also not all you need to build a house.
 
@@ -93,12 +93,12 @@ In the AI-driven, process-fueled recruiting world, this sadly all goes through t
 
 Should I even mention technical interviews, especially the ones including leetcode? A lot has been said about it, so I probably don't need to.
 
-I will however rant about how inhumane the process is for neurodivergent people. It's not even about direct discrimination, albeit this does happen (and it did happen to me). But the whole process of recruiting just doesn't account for neurodivergent profiles. As an autistic person, I already can't wrap my head around the fact that you are _expected_, and even _supposed_ to lie during job interviews.
+I will however rant about how inhumane the process is for neurodivergent people. It's not even about direct discrimination, albeit this does happen (and it did happen to me). But the whole process of recruiting just doesn't account for neurodivergent profiles. As an autistic person, I already can't wrap my head around the fact that you are _supposed_, and even _expected_ to lie during job interviews.
 
 This is such a sad state of affairs, because neurodivergence really is a rich source of skills and experiences that can be extremely beneficial to a company. It's literally different ways to see the world, to think, to solve problems.
 
 ## Conclusion
 
-Diversity is not a moral choice. It is a profitable one. I sincerely hope companies, executives and recruiters starts to realize this and account for it.
+Diversity is not (only) a moral choice. It is a profitable one. I sincerely hope companies, executives and recruiters starts to realize this and account for it.
 
 In the meantime, if you agree with this article, enjoyed it or found it interesting, please get the word out. The way we think about diversity is wrong, and we need to correct it.
