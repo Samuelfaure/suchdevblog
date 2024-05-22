@@ -41,9 +41,11 @@ Complexity is bad. [Very, very bad](https://grugbrain.dev/#grug-on-complexity). 
 We achieve simplicity via both programming practices, and work methodologies. Some examples:
 
 **Programming practices**
-Elegant, high-quality code. Following best practices. Using the right OOP patterns at the right time, functional programming when it makes sense. Refactoring. Avoiding [technical debt](https://dev.to/samuelfaure/the-technical-debt-explained-with-a-kitchen-analogy-518h) and spaghetti code. You get the idea, but this is not what this article is about, we're here for the next section:
+
+Elegant, high-quality code. Following best practices. Using the right OOP patterns at the right time, functional programming when it makes sense. Refactoring. Avoiding [technical debt](/opinions/TechnicalDebtKitchen) and spaghetti code. You get the idea, but this is not what this article is about, we're here for the next section:
 
 **Work methodologies**
+
 Let's explore some work methods that will help you save on all that precious brainpower.
 
 ## III - When to think hard, and how to do it.
@@ -56,9 +58,11 @@ Knowing when to think hard _and then actually thinking hard_ is key to building 
 
 Here are two great work methods to achieve _great thinking_:
 
-**Deep work**: as explained by Cal Newport in his (amazing) book, it's all about maximizing work efficiency by achieving high focus.
+**Deep work**:
+as explained by Cal Newport in his (amazing) book, it's all about maximizing work efficiency by achieving high focus.
 
-**Pomodoros**: By cutting your work into small time fractions and combining this with _deep work_, you can actually achieve your best work.
+**Pomodoros**:
+By cutting your work into small time fractions and combining this with _deep work_, you can actually achieve your best work.
 
 Feel free to research those topics, because I will not detail them here. We're going to focus less on _how_ to use your brain and more on _when_ to use your brain.
 
