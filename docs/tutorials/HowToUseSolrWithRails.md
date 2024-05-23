@@ -1,9 +1,9 @@
 ---
-title: How to use Solr / Sunspot with Rails
+title: 💎 How to use Solr / Sunspot with Rails
 description: Much search, very engine
 footer: CC-BY-4.0 Licensed | Copyright © 2018-present by Samuel Faure <3
 ---
-# How to use Solr / Sunspot with Rails in 2018 like a peasant
+# 💎 How to use Solr / Sunspot with Rails in 2018 like a peasant
 
 Working on Rails is good. It's fun. It's hipster.
 

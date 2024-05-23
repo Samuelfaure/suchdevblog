@@ -1,9 +1,9 @@
 ---
-title: Debugging Solr Sunspot like a pro
+title: 💎 Debugging Solr Sunspot like a pro
 description: Fix that bug, SOlve that 404, 500, 503 and more
 footer: CC-BY-4.0 Licensed | Copyright © 2018-present by Samuel Faure <3
 ---
-# Debugging classic Solr Sunspot issues like a pro
+# 💎 Debugging classic Solr Sunspot issues like a pro
 
 Solr is *awesome* and Sunspot is a cool wrapper for it. But troubleshooting is *hard*. Here are the main issues and how to fix them :
 

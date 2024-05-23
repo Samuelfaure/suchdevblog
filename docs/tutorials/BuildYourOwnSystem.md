@@ -1,10 +1,10 @@
 ---
-title: Build your own system with ArchLinux
+title: 📐 Build your own system with ArchLinux
 description: Much arch, Very linux, so pretty
 footer: CC-BY-4.0 Licensed | Copyright © 2018-present by Samuel Faure <3
 ---
 
-# Build your own system with ArchLinux
+# 📐 Build your own system with ArchLinux
 
 This article was initially written on [dev.to](https://dev.to/samuelfaure/build-your-own-system-with-archlinux-240o/)
 

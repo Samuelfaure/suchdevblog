@@ -1,9 +1,9 @@
 ---
-title: Testing Ansible scripts with Vagrant
+title: 💽 Testing Ansible scripts with Vagrant
 description: Very ansible, much deployment
 footer: CC-BY-4.0 Licensed | Copyright © 2018-present by Samuel Faure <3
 ---
-# Testing ANSIBLE scripts without breaking everything with Vagrant
+# 💽 Testing ANSIBLE scripts without breaking everything with Vagrant
 
 Testing ANSIBLE scripts for server deployment might be tricky.
 It is easier to write complex deployment scripts aimed to deploying on clean servers. The correlation is that your script might break a server which is not clean. You might need an empty server to try your script on.

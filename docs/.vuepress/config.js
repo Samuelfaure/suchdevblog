@@ -63,10 +63,10 @@ export default defineUserConfig({
         text: 'Tutorials',
         children: [
           '/tutorials/BuildYourOwnSystem',
+          '/tutorials/TestingAnsibleScriptsWithVagrant',
           '/tutorials/UploadFilesFromVueToRails',
           '/tutorials/FilterAnythingInRails',
           '/tutorials/TestAllYourRoutesInRails.md',
-          '/tutorials/TestingAnsibleScriptsWithVagrant',
           '/tutorials/HowToUseSolrWithRails',
           '/tutorials/DebuggingSolrSunspot'
         ]

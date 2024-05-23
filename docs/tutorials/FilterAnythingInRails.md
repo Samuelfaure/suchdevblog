@@ -1,9 +1,9 @@
 ---
-title: Filter Anything in a Rails request in 10 lines of code
+title: 💎 Filter Anything in a Rails request in 10 lines of code
 description: Wow Rails, Has scope, Very powerful
 footer: CC-BY-4.0 Licensed | Copyright © 2018-present by Samuel Faure <3
 ---
-# Filter anything in a Rails request with almost no code
+# 💎 Filter anything in a Rails request with almost no code
 
 ## Context (What and Why ?)
 
