@@ -57,7 +57,7 @@ The code for most of my work can be found on [github](https://github.com/samuelf
 - Sometimes I [code my own music](https://github.com/Samuelfaure/sonic-pi-compositions)
 - Modified a [neon cactus into a music visualizer](https://github.com/Samuelfaure/neon_genesis_cactus) with some arduino chips
 
--<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/AxgrOmg6wjI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+-<iframe src="https://www.youtube-nocookie.com/embed/AxgrOmg6wjI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen />
 
 ## Contact Me
 
