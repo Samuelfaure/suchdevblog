@@ -1,9 +1,9 @@
 ---
-title: Design resources for WebDevs
+title: 🧑‍🎨 Design resources for WebDevs
 description: make things pretty
 footer: MIT Licensed | Copyright © 2018-present by Samuel Faure <3
 ---
-# Design resources for WebDevs
+# 🧑‍🎨 Design resources for WebDevs
 
 Wanna be a webdev ? You need all the hats you can find. Close the gelstalt with these.
 

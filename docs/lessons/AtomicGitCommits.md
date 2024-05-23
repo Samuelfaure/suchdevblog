@@ -1,10 +1,10 @@
 ---
-title: Dramatically increase your productivity with Atomic Git Commits
+title: ⭐ Dramatically increase your productivity with Atomic Git Commits
 description: Very atomic, wow, much Git.
 footer: CC-BY-4.0 Licensed | Copyright © 2018-present by Samuel Faure <3
 ---
 
-# Dramatically increase your productivity with Atomic Git Commits
+# ⭐ Dramatically increase your productivity with Atomic Git Commits
 
 *Atomic: of or forming a single irreducible unit or component in a larger system.*
 

@@ -1,10 +1,10 @@
 ---
-title: Why our work culture sucks
+title: 🪠 Why our work culture sucks
 description: Much management, very culture
 footer: CC-BY-4.0 Licensed | Copyright © 2018-present by Samuel Faure <3
 ---
 
-# The problem with the basecamp books, or Why our work culture sucks.
+# 🪠 The problem with the basecamp books, or Why our work culture sucks.
 
 Last year after finding myself between two jobs, I interviewed with a bunch of start-ups in Paris. All successful businesses, the crème de la crème of the FrenchTech, looking for experienced developers to consolidate their tech teams.
 

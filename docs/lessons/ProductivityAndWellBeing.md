@@ -6,7 +6,7 @@ footer: CC-BY-4.0 Licensed | Copyright © 2018-present by Samuel Faure <3
 
 _This article was first published on [Dev.to](https://dev.to/samuelfaure/productivity-and-well-being-a-summary-of-what-works-55og/edit). Thanks to the team for choosing it as a Top 7 weekly!_
 
-# Productivity and well-being: a summary of what works.
+# 📈 Productivity and well-being: a summary of what works.
 
 I've been working for a very long time in remote-only positions by now, while mentoring remote-working students.
 

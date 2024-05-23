@@ -1,10 +1,10 @@
 ---
-title: The Technical Debt explained with a kitchen analogy
+title: 🔪 The Technical Debt explained with a kitchen analogy
 description: Wow, so effiency, very good practices
 footer: CC-BY-4.0 Licensed | Copyright © 2018-present by Samuel Faure <3
 ---
 
-# The Technical Debt explained with a kitchen analogy.
+# 🔪 The Technical Debt explained with a kitchen analogy.
 
 I'm often confronted to the challenge of explaining to a non-tech person what the "Technical Debt" is. Or maybe I have to explain the difference between Good code VS Bad code, or between a good codebase VS a bad codebase.
 

@@ -1,10 +1,10 @@
 ---
-title: The Marie Kondo guide for the Clean Developer
+title: 🧹 The Marie Kondo guide for the Clean Developer
 description: Wow, so clean, very productive
 footer: CC-BY-4.0 Licensed | Copyright © 2018-present by Samuel Faure <3
 ---
 
-# The Marie Kondo guide for the Clean Developer
+# 🧹 The Marie Kondo guide for the Clean Developer
 
 Marie Kondo is that Japanese woman who became famous with her method for reaching a tidy home and a tidy life.
 

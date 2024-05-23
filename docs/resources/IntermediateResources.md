@@ -1,10 +1,10 @@
 ---
-title: Resources for the Intermediate WebDev
+title: 👩 Resources for the Intermediate WebDev
 description: Resources to make big webdev even bigger
 footer: MIT Licensed | Copyright © 2018-present by Samuel Faure <3
 ---
 
-# Resources for the Intermediate WebDev
+# 👩 Resources for the Intermediate WebDev
 
 <div style="text-align:center"><img style="width: 15em;" src="/images/astronaut.svg"/></div>
 

@@ -1,9 +1,9 @@
 ---
-title: How to Start Learning CSS without hating yourself
+title: 😠 How to Start Learning CSS without hating yourself
 description: Much CSS, very beginner, so best practices.
 footer: CC-BY-4.0 Licensed | Copyright © 2018-present by Samuel Faure <3
 ---
-# How to Start Learning CSS without hating yourself
+# 😠 How to Start Learning CSS without hating yourself
 
 I've been teaching / mentoring quite a lot of webdev students in my spare time.
 We start, of course, with HTML CSS.

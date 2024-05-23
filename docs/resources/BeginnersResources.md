@@ -1,10 +1,10 @@
 ---
-title: Resources for the Beginner WebDev
+title: 👶 Resources for the Beginner WebDev
 description: Resources to make little webdev grow
 footer: MIT Licensed | Copyright © 2018-present by Samuel Faure <3
 ---
 
-# Resources for the Beginner WebDev
+# 👶 Resources for the Beginner WebDev
 
 <div style="text-align:center"><img style="width: 15em;" src="/images/rocket.svg"/></div>
 
