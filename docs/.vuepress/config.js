@@ -56,7 +56,8 @@ export default defineUserConfig({
           '/opinions/WhyOurWorkCultureSucks',
           '/opinions/MarieKondo',
           '/opinions/WhatOpenSourceIs',
-          '/opinions/WhyDiversityIsGreat'
+          '/opinions/WhyDiversityIsGreat',
+          '/opinions/NetworkingIsNotWhatYouThink'
         ]
       },
       {
