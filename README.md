@@ -6,7 +6,7 @@ you're welcome at [https://suchdevblog.com/](https://suchdevblog.com/)
 
 ## Dev
 
-`npx vuepress dev docs`
+`pnpm docs:dev`
 
 ## Package manager
 
