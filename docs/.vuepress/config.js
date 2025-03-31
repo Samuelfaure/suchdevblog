@@ -35,7 +35,7 @@ export default defineUserConfig({
       },
     ],
     ["link", { rel: "manifest", href: "/site.webmanifest" }],
-    ["link", { rel: "stylesheet", href: "/styles/index.scss" }],
+    ["link", { rel: "stylesheet", href: "/styles/index.css" }],
     ["meta", { name: "msapplication-TileColor", content: "#da532c" }],
     ["meta", { name: "theme-color", content: "#ffffff" }],
     [
