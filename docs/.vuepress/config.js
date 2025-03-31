@@ -12,7 +12,7 @@ export default defineUserConfig({
       "link",
       {
         rel: "apple-touch-icon",
-        href: "/apple-touch-icon.webp",
+        href: "/apple-touch-icon.png",
         size: "180x180",
       },
     ],
@@ -20,8 +20,8 @@ export default defineUserConfig({
       "link",
       {
         rel: "icon",
-        type: "image.webp",
-        href: "/favicon-32x32.webp",
+        type: "image.png",
+        href: "/favicon-32x32.png",
         size: "32x32",
       },
     ],
@@ -29,8 +29,8 @@ export default defineUserConfig({
       "link",
       {
         rel: "icon",
-        type: "image.webp",
-        href: "/favicon-16x16.webp",
+        type: "image.png",
+        href: "/favicon-16x16.png",
         size: "16x16",
       },
     ],
