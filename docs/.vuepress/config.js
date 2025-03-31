@@ -35,7 +35,8 @@ export default defineUserConfig({
           '/resources/BeginnersResources',
           '/resources/IntermediateResources',
           '/resources/SeniorResources',
-          '/resources/DesignResources'
+          '/resources/DesignResources',
+          '/resources/LLMResources'
         ]
       },
       {
