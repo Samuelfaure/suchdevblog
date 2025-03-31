@@ -43,7 +43,7 @@ export default defineUserConfig({
       {
         "data-goatcounter": "https://suchdevblog.goatcounter.com/count",
         async: true,
-        src: "//gc.zgo.at/count.js",
+        src: "https://gc.zgo.at/count.js",
       },
     ],
   ],
