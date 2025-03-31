@@ -6,7 +6,7 @@ footer: MIT Licensed | Copyright © 2018-present by Samuel Faure <3
 
 # 🤖 Resources for LLM / AI programming
 
-<div style="text-align:center"><img style="width: 15em;" src="/images/llm.svg"/></div>
+<div class="big-icon"><img src="/images/llm.svg"/></div>
 
 ## General
 

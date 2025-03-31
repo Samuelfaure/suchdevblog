@@ -12,6 +12,7 @@ export default defineUserConfig({
     ['link', {rel: 'icon', type: 'image.webp', href: '/favicon-32x32.webp', size: '32x32'}],
     ['link', {rel: 'icon', type: 'image.webp', href: '/favicon-16x16.webp', size: '16x16'}],
     ['link', {rel: 'manifest', href: '/site.webmanifest'}],
+    ['link', { rel: 'stylesheet', href: '/styles/index.scss' }],
     ['meta', {name: 'msapplication-TileColor', content: '#da532c'}],
     ['meta', {name: 'theme-color', content: '#ffffff'}],
     ['script', {'data-goatcounter': 'https://suchdevblog.goatcounter.com/count', async: true, src: '//gc.zgo.at/count.js'}]

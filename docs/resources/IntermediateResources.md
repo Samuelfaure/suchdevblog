@@ -6,7 +6,7 @@ footer: MIT Licensed | Copyright © 2018-present by Samuel Faure <3
 
 # 👩 Resources for the Intermediate WebDev
 
-<div style="text-align:center"><img style="width: 15em;" src="/images/astronaut.svg"/></div>
+<div class="big-icon"><img src="/images/astronaut.svg"/></div>
 
 Those ressources are for junior devs who wants to not be so junior anymore.
 Work in progress.
