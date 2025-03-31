@@ -17,3 +17,9 @@ Programming with LLM ain't just prompting ChatGPT. It goes way beyond that.
 [Link](https://simonwillison.net/2025/Mar/11/using-llms-for-code/)
 
 Great 101 guide for programmers who don't know much about using LLM efficiently.
+
+### Awesome MCP Servers
+
+[Link](https://github.com/punkpeye/awesome-mcp-servers)
+
+MCPs are powerful. Use them wisely.
