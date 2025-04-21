@@ -23,3 +23,10 @@ Great 101 guide for programmers who don't know much about using LLM efficiently.
 [Link](https://github.com/punkpeye/awesome-mcp-servers)
 
 MCPs are powerful. Use them wisely.
+
+### Claude Code Best Practices
+
+[Link](https://www.anthropic.com/engineering/claude-code-best-practices)
+
+I'm a big fan of Anthropic's products and approach to LLMs. This is a must-read to use Claude Code efficiently.
+
