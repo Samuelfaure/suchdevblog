@@ -36,6 +36,21 @@ export default defineUserConfig({
     ],
     ["link", { rel: "manifest", href: "/site.webmanifest" }],
     ["link", { rel: "stylesheet", href: "/styles/index.css" }],
+    // Open Graph / Facebook
+    ["meta", { property: "og:type", content: "website" }],
+    ["meta", { property: "og:url", content: "https://suchdevblog.com/" }],
+    ["meta", { property: "og:title", content: "Such Dev Blog" }],
+    ["meta", { property: "og:description", content: "Much code, very webdev. A blog by Samuel Faure about web development, Ruby on Rails, Node.js, and more." }],
+    ["meta", { property: "og:image", content: "https://suchdevblog.com/images/devpic.webp" }],
+    // Twitter
+    ["meta", { name: "twitter:card", content: "summary_large_image" }],
+    ["meta", { name: "twitter:url", content: "https://suchdevblog.com/" }],
+    ["meta", { name: "twitter:title", content: "Such Dev Blog" }],
+    ["meta", { name: "twitter:description", content: "Much code, very webdev. A blog by Samuel Faure about web development, Ruby on Rails, Node.js, and more." }],
+    ["meta", { name: "twitter:image", content: "https://suchdevblog.com/images/devpic.webp" }],
+    // SEO Meta
+    ["meta", { name: "author", content: "Samuel Faure" }],
+    ["meta", { name: "keywords", content: "web development, Ruby on Rails, Node.js, fullstack, developer, blog, tutorials, programming" }],
     ["meta", { name: "msapplication-TileColor", content: "#da532c" }],
     ["meta", { name: "theme-color", content: "#ffffff" }],
     [
