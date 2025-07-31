@@ -4,3 +4,5 @@ Choose the category it belongs to and place it in the appropriate folder. Also u
 Every article title starts with an emoji, use one that is appropriate.
 
 Be sure to include in the article the "title, description, footer" section like in other articles in the repository. The footer never change.
+
+Finally, also check for blatant English errors in the article and correct them, while keeping any clearly intentional error as is and keeping the tone of the article as it is.
