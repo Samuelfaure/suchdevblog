@@ -63,6 +63,7 @@ export default defineUserConfig({
     ],
   ],
   theme: defaultTheme({
+    colorMode: "dark",
     navbar: [
       { text: "Who am I ?", link: "/WhoAmI" },
       { text: "Portfolio", link: "/Portfolio" },
