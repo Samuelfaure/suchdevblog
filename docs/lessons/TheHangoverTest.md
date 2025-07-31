@@ -20,7 +20,7 @@ Because you don't write code for writing it, you write it for it to be read - it
 
 If you're not writing for Hangover Coworker, you're making your life -and the life of every colleague, present and future- harder.
 
-Remember that Complex code is not a sign of intelligence, it's a sign of sloppiness.
+Remember that complex code is not a sign of intelligence, it's a sign of sloppiness.
 
 So can someone kill their brain cells with too much alcohol and the next morning still make sense of your code with relative ease?
 
