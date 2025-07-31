@@ -58,7 +58,7 @@ If you're like me, you might have a tendency while developing a feature, to just
 
 Then you realize how you did not think everything through.
 
-You need to change more that you expected. Some edge cases aren't taken into account. You broke some unrelated tests, they need fixing. Soon, you end up in a maze of your own making. You're lost. Your head hurts. You can't make any progress without being entirely focused.
+You need to change more than you expected. Some edge cases aren't taken into account. You broke some unrelated tests, they need fixing. Soon, you end up in a maze of your own making. You're lost. Your head hurts. You can't make any progress without being entirely focused.
 
 Now, this is the *wrong* way to do things. And worse, you already know the *right* way, because it's so obvious.
 

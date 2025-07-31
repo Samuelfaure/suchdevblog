@@ -6,7 +6,7 @@ footer: CC-BY-4.0 Licensed | Copyright © 2018-present by Samuel-Zacharie Faure
 
 # 🕸 Networking is easy, fun, and probably not what you think it is.
 
-_This article was also published on [dev.to](https://dev.to/samuelfaure/networking-is-easy-fun-and-probably-not-what-you-think-it-is-2ijc). Thanks to the team for choosing is as a Top 7 weekly._
+_This article was also published on [dev.to](https://dev.to/samuelfaure/networking-is-easy-fun-and-probably-not-what-you-think-it-is-2ijc). Thanks to the team for choosing it as a Top 7 weekly._
 
 Networking is *extremely important* for your career.
 

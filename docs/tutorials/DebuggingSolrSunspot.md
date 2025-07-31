@@ -15,7 +15,7 @@ Always put RAILS_ENV at the beginning of the command.
 ## Halp, I have error 500 - RSolr::Error::ConnectionRefused !
 
 Did you wait long enough for Solr to initialize ?
-Usually, 3 seconds after running `rake sunspot:solr:start` is enough, but if you're working on a VM like travis-ci or circle-ci, it might be slower. I put a `sleep:30` command after launching Solr, which slows down my build 30 seconds but then Solr have enough time to launch.
+Usually, 3 seconds after running `rake sunspot:solr:start` is enough, but if you're working on a VM like travis-ci or circle-ci, it might be slower. I put a `sleep:30` command after launching Solr, which slows down my build 30 seconds but then Solr has enough time to launch.
 
 This might also be a problem of conflicts between different Solr servers. Try killing your Solr processes and launch it again. Sometimes the java VM stays active, you might need to kill it too.
 

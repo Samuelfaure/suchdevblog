@@ -13,7 +13,7 @@ Solr can be tricky to use but your main issue won't be Solr, it will be ElasticS
 
 There is a gem called [Sunspot](https://github.com/sunspot/sunspot) that is supposed to allow you to use Solr easily on Rails, but it's not been maintained correctly because everybody already migrated on ElasticSearch. So you will get stuck and then your colleagues will make fun of you for not using ElasticSearch. You will try to find tutorials on the internet, but they are all deprecated because they pre-date ElasticSearch.
 
-But that should'nt discourage you to use Solr. **Solr is very powerful, mature and well-documented**. Sure you'll stop being invited to office parties because you'll be "the Solr guy" but it can totally be worth it.
+But that shouldn't discourage you to use Solr. **Solr is very powerful, mature and well-documented**. Sure you'll stop being invited to office parties because you'll be "the Solr guy" but it can totally be worth it.
 
 Let's look at three powerful implementations for a great FullText search experience :
 
@@ -27,7 +27,7 @@ In Solr's *schema.xml*, you can see that your queries are tokenized with *Standa
 
 ### Two points are important to consider there
 
-- Sunspot doesn't require an appearance threeshold when spellchecking your words. Which means if you have weird words in your database, you'll also have weird corrections.
+- Sunspot doesn't require an appearance threshold when spellchecking your words. Which means if you have weird words in your database, you'll also have weird corrections.
 
   **Example :** You have the following words in your database => "Blu", "House", "Blue".
 
@@ -140,7 +140,7 @@ end
 ```
 
 ::: tip
-Building a suggestions dictionary takes time ans ressources. On a 11M entries database, It should take about 40 mins.
+Building a suggestions dictionary takes time and resources. On a 11M entries database, It should take about 40 mins.
 I also need to configure sunspot to use 4 gigas of RAM minimum.
 :::
 

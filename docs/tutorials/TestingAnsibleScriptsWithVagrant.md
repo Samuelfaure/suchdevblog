@@ -11,7 +11,7 @@ It is easier to write complex deployment scripts aimed to deploying on clean ser
 One solution is to subscribe for a free AWS server. But this solution is limited (time, available space).
 Another solution is renting a cheap OVH server for 3.50 euros a month, but that might not be ideal either.
 
-A better solution is provisioning to virtual servers with Vagrant. This solution also have the benefit of being local, so we don't even need internet for running tests on our ANSIBLE playbooks.
+A better solution is provisioning to virtual servers with Vagrant. This solution also has the benefit of being local, so we don't even need internet for running tests on our ANSIBLE playbooks.
 
 In this example, we will provision with ANSIBLE a rails app on a virtual server, using Vagrant.
 

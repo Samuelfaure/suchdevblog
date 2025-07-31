@@ -92,7 +92,7 @@ Now your users can filter any requests from any fields !
 
 ## Security
 
-`has_scope` disallow use of hashes or arrays by default (althought it is still
+`has_scope` disallows use of hashes or arrays by default (although it is still
 possible to use them, as long as you predefine them). This removes the need for
 defining strong params.
 

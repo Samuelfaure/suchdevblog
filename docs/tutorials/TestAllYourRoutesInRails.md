@@ -7,7 +7,7 @@ footer: CC-BY-4.0 Licensed | Copyright © 2018-present by Samuel Faure <3
 
 ## What and Why?
 
-A great friend of mine (who also happen to be a great rails developer) told me once a great trick to increase your code coverage easily. You can just write a test to check if all your GET routes return a non-errored code.
+A great friend of mine (who also happens to be a great rails developer) told me once a great trick to increase your code coverage easily. You can just write a test to check if all your GET routes return a non-errored code.
 
 Indeed, the most important information to check about our static GET pages is to know if they are currently erroring or not. So a quick test to check if those pages are working or not is a great low-hanging fruit.
 

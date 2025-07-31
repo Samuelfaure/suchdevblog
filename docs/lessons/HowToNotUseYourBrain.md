@@ -24,7 +24,7 @@ Let's start.
 
 The reason is, using your brain is _hard_. Most people will avoid doing hard things too often. If you can do a great job without efforts, then why should you? You don't get extra points for difficulty.
 
-Job satisfaction increases when you're not suffering. Your energy levels stays high, your productivity as well.
+Job satisfaction increases when you're not suffering. Your energy levels stay high, your productivity as well.
 
 There is a secret to achieving high efficiency with minimal efforts, it's called "being smart about it". Martial artists achieve high efficiency by applying high pressure onto an opponent's sensitive points. That's knowledge well used.
 

@@ -24,7 +24,7 @@ Which is why beginners can get confused easily. And a mistake can cost a lot: no
 
 The best way to learn Git is gradually. It can take quite some time before you're a real Git master.
 
-This guide intend to make your journey easier by organizing your learning path in simple, digestible clear-cut steps. Be sure to master each level very well before switching to the next!
+This guide intends to make your journey easier by organizing your learning path in simple, digestible clear-cut steps. Be sure to master each level very well before switching to the next!
 
 ## I - Basic solo use
 
@@ -157,7 +157,7 @@ git revert <commit hash>
 
 ## VI - Advanced level
 
-At this level, you can fix when you or someone else fuck something up.
+At this level, you can fix when you or someone else fucks something up.
 
 *Concepts to understand perfectly:*
 ```

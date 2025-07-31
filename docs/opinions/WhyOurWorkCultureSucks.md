@@ -108,7 +108,7 @@ Here's the kick though: diversity *is* a strength in the workplace. There's only
 
 How many times did a racist advertisement end up in popular backlash? And everyone is then left to wonder if indeed those ad designers have a single person of color in their office. Someone who could have warned them that they were publishing unacceptable content.
 
-How many time did you witness a company commit to the dumbest market or business decision, and everyone is wondering *what's wrong with them* as they inevitably end up crashing and burning? More often than not, a lack of diversity is an answer here.
+How many times did you witness a company commit to the dumbest market or business decision, and everyone is wondering *what's wrong with them* as they inevitably end up crashing and burning? More often than not, a lack of diversity is an answer here.
 
 ## Even Basecamp fuc-ed it all up
 

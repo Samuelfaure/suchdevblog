@@ -55,7 +55,7 @@ There's the good part: since you start from nothing, nothing is stopping you fro
 
 Prettier, right ?
 
-And I'm by no mean talented. If you want to see some true masterpieces, go check out the [unixporn subreddit](https://www.reddit.com/r/unixporn/top/?t=all) (Safe for work !)
+And I'm by no means talented. If you want to see some true masterpieces, go check out the [unixporn subreddit](https://www.reddit.com/r/unixporn/top/?t=all) (Safe for work !)
 
 ## What do I need to start ?
 

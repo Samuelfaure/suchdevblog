@@ -10,7 +10,7 @@ footer: MIT Licensed | Copyright © 2018-present by Samuel Faure <3
 
 Starting a WebDev career is hard. Learning how to code isn't very complicated, but learning the _full job_ is something else altogether.
 
-Since I had to dive deep and fast in WebDev waters, and since I kept my passion for tutoring and mentoring, I saved the best resources a beginner WebDev might need to kickstart its career.
+Since I had to dive deep and fast in WebDev waters, and since I kept my passion for tutoring and mentoring, I saved the best resources a beginner WebDev might need to kickstart their career.
 
 ## General knowledge
 
@@ -157,7 +157,7 @@ Real CSS breakpoints !
 
 [Link](https://zellwk.com/blog/how-to-write-mobile-first-css/)
 
-Because we are in the 21th century.
+Because we are in the 21st century.
 
 ## Recreation time
 

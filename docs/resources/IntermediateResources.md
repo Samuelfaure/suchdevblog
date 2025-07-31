@@ -8,7 +8,7 @@ footer: MIT Licensed | Copyright © 2018-present by Samuel Faure <3
 
 <div class="big-icon"><img src="/images/astronaut.svg"/></div>
 
-Those ressources are for junior devs who wants to not be so junior anymore.
+Those resources are for junior devs who want to not be so junior anymore.
 Work in progress.
 
 ## Make your code better
@@ -17,7 +17,7 @@ Work in progress.
 
 [Link](https://semver.org/)
 
-Learn correct versionning.
+Learn correct versioning.
 
 ### Rules for developers
 

@@ -18,7 +18,7 @@ Some people think more productivity means less well-being. Those people are wron
 
 **Your productivity is a direct byproduct of your well-being;**
 
-**Your well-being tend to increase when you're productive** (up to a point).
+**Your well-being tends to increase when you're productive** (up to a point).
 
 By taking care of yourself, you are fulfilling your duties both to yourself and to your employer.
 
@@ -109,7 +109,7 @@ During those 10 minute breaks, I highly recommend that you **stretch**.
 
 I am not kidding when I say that the Pomodoro technique is the most important productivity tool for remote work.
 
-Although the pomodoro technique works extremely very well for some people, many of them end up not using it anyway. [Knowing something works and not doing it anyway is a classic problem](https://suchdevblog.com/opinions/WhyOurWorkCultureSucks.html). Don't be like this: if something works for you, persevere.
+Although the pomodoro technique works extremely well for some people, many of them end up not using it anyway. [Knowing something works and not doing it anyway is a classic problem](https://suchdevblog.com/opinions/WhyOurWorkCultureSucks.html). Don't be like this: if something works for you, persevere.
 
 Sidenote: the opposite is also true. If something doesn't work for you, absolutely do not persevere as it, but change something.
 
@@ -141,7 +141,7 @@ A regular meditation practice will not only help you focus better by directly tr
 
 Having technical debt is really bad for your productivity, but also for your well-being. [Here's an article explaining why.](https://suchdevblog.com/opinions/TechnicalDebtKitchen.html). So work on your technical debt. Keep it as small as possible
 
-A great method to clean your space - virtual, mental, and code - is the Marie Kondo philosophy. Throw things away. For more informations on this, read the [Marie Kondo guide for the Clean Developer](https://suchdevblog.com/opinions/MarieKondo.html).
+A great method to clean your space - virtual, mental, and code - is the Marie Kondo philosophy. Throw things away. For more information on this, read the [Marie Kondo guide for the Clean Developer](https://suchdevblog.com/opinions/MarieKondo.html).
 
 ## Step Five: Work methodologies
 

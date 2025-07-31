@@ -32,7 +32,7 @@ Here's the bit of information I had the most trouble to find: the Eigenclass is 
 
 The Singleton pattern is simply an object-oriented programming pattern where you make sure to only have 1 and only 1 instance of some class.
 
-Ruby implement the Singleton pattern with a module: just write `Include Singleton` in your class definition and you're good to go.
+Ruby implements the Singleton pattern with a module: just write `Include Singleton` in your class definition and you're good to go.
 
 This module basically hides the `:new` method. `MySingletonObject.new` will always ERROR. Instead, it will give you an `instance` method that will always return the same unique instance of your class.
 
@@ -124,7 +124,7 @@ object2.print_hello # => 'Aloha'
 
 As you can see, the `class << object2` syntax is used to access the Eigenclass of `object2`.
 
-Now for the neat trick: you might know that, in Ruby, classes are objects too. In Ruby. Everything is an object !
+Now for the neat trick: you might know that, in Ruby, classes are objects too. In Ruby, everything is an object!
 
 And the `Class` of any class is always, well, `Class`. I love this about Ruby: it seems to not make any sense, but it actually does, in its own way.
 
@@ -144,7 +144,7 @@ Class.class # => Class
 ExampleObject.class.class.class.class # => Class
 ```
 
-So, we just saw that the class `ExampleObject` is an object too, and more precisely, it is an instance of the class `Class`. This must means that it also have its own Eigenclass !
+So, we just saw that the class `ExampleObject` is an object too, and more precisely, it is an instance of the class `Class`. This must mean that it also has its own Eigenclass!
 
 And if the Eigenclass of an instance of your class 'ExampleObject' is somewhat of a copy of the class 'ExampleObject', then the Eigenclass of the class 'ExampleObject' must be somewhat of a copy of the class 'Class'.
 
@@ -224,5 +224,5 @@ MyModel.new.print_bonjour # => 'Bonjour'
 
 So as you see, the *Class method* of your class is actually just an *Instance method* of the Eigenclass of your class.
 
-Don't hesitate and repeat that last sentence to your company's interns: they'll think you're a Ruby genius !
+Don't hesitate and repeat that last sentence to your company's interns: they'll think you're a Ruby genius!
 

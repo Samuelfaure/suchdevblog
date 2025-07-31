@@ -6,7 +6,7 @@ footer: CC-BY-4.0 Licensed | Copyright © 2018-present by Samuel Faure <3
 
 # 🔪 The Technical Debt explained with a kitchen analogy.
 
-I'm often confronted to the challenge of explaining to a non-tech person what the "Technical Debt" is. Or maybe I have to explain the difference between Good code VS Bad code, or between a good codebase VS a bad codebase.
+I'm often confronted with the challenge of explaining to a non-tech person what the "Technical Debt" is. Or maybe I have to explain the difference between Good code VS Bad code, or between a good codebase VS a bad codebase.
 
 More importantly, I often need people to *feel* what it's like to work with or without Technical Debt. How can a tech person convey the *feelings* of a work environment full of Technical Debt to someone who never coded in their life?
 

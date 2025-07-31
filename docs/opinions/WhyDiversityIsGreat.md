@@ -101,4 +101,4 @@ This is such a sad state of affairs, because neurodivergence really is a rich so
 
 Diversity is not (only) a moral choice. It is a profitable one. I sincerely hope companies, executives and recruiters starts to realize this and account for it.
 
-In the meantime, if you agree with this article, enjoyed it or found it interesting, please get the word out. The way we think about diversity is wrong, and we need to correct it.
+In the meantime, if you agree with this article, enjoyed it, or found it interesting, please get the word out. The way we think about diversity is wrong, and we need to correct it.
