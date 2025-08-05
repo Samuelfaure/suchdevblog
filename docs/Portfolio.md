@@ -3,9 +3,10 @@ title: Portfolio
 description: Wow, much nice ! Very webdev
 footer: CC-BY-4.0 Licensed | Copyright © 2018-present by Samuel Faure <3
 ---
+
 # Portfolio
 
-Here are some things I've worked on over the year.
+Here are some of the things I've worked on over the year.
 The code for most of my work can be found on [github](https://github.com/samuelfaure/)
 
 ## DINUM (Direction Interministerielle du Numérique)
@@ -13,10 +14,15 @@ The code for most of my work can be found on [github](https://github.com/samuelf
 ![Portfolio_dinum](/images/portfolio_dinum.webp)
 
 - Fullstack + devops + basically everything
-- Working at the heart of French Digital Transformation at DINUM (Previously SGMAP/DINSIC/Etalab), Service of the Prime Minister
+- Working at the heart of French Digital Transformation at DINUM under the supervision of the Prime Minister
 - Develop and maintain API Entreprise and Particulier, the official French government APIs for data transit
 - As well as Datapass, an API habilitation tool, and many smaller project
 - Mostly Rails, some React, Ansible, but a lot of everything.
+
+Previous DINUM projects include:
+
+- Entreprise.data.gouv.fr, which became [L'annuaire des Entreprises](https://annuaire-entreprises.data.gouv.fr/)
+- Sirene as API, used by hundreds of companies with millions of requests per day
 
 ## Sedomicilier
 
@@ -32,23 +38,6 @@ The code for most of my work can be found on [github](https://github.com/samuelf
 - Mentored students on the path to becoming a fullstack developer
 - Taught them, helped them & guided them
 - Learnt a lot from them too
-
-## Entreprise.data.gouv.fr
-
-![Portfolio_data_entreprise](/images/portfolio_entreprise_data_gouv.webp)
-
-- The Open Data reference for all French Companies and Associations.
-- Deprecated, but lives on with [Annuaire des entreprises](https://annuaire-entreprises.data.gouv.fr/)
-- Vue.js Frontend
-
-## SIRENE as API
-
-[Code on Github](https://github.com/etalab/sirene_as_api)
-
-- What started as my internship project became an API with millions of monthly calls
-- (Previously) the open data reference for all French Companies and Associations
-- Now deprecated in favor of the INSEE API
-- Rails, PostreSQL, Lucene Solr
 
 ## Some fun side-projects
 
