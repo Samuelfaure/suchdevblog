@@ -16,3 +16,8 @@ footer: MIT Licensed | Copyright © 2018-present by Samuel Faure <3
 
 A layman's guide to thinking like the self-aware smol brained.
 
+### How to Review Code
+
+[Link](https://endler.dev/2025/how-to-review-code)
+
+An amazing guide on how to review code.
