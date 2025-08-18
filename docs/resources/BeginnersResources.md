@@ -105,7 +105,7 @@ A definitive guide.
 
 ### Why use Single-Page-Application JavaScript Frameworks ?
 
-[Link](https://itnext.io/reddits-voting-ui-in-vanilla-vs-react-vs-vue-vs-hyperapp-shedding-light-on-the-purpose-of-spa-ee6b6ac9a8cc)
+
 
 The answer with a very detailed study of the Reddit up/downvote button.
 
