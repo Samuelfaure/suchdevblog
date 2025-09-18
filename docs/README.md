@@ -13,6 +13,5 @@ Head directly to my [presentation](./WhoAmI.md).
 :::
 
 <p class="text-hero">
-  Code on this website is MIT Licensed <br>
-  Other creative content is CC-BY-4.0 Licensed
+  This creative content is CC-BY-4.0 Licensed
 </p>
