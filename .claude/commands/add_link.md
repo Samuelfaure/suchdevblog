@@ -1,0 +1,2 @@
+here is a link to an article. Add it to a resource list, they are in the docs/resources/ folder. Choose which list makes the most sense. If you don't know, ask. Respect the formatting of the other entries. This includes writing a very short description of the resource. Visit the resource to understand what it is about. Clean the link so it doesn't have any tracking info or unnecessary parameters.
+

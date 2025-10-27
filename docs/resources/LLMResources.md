@@ -30,3 +30,9 @@ MCPs are powerful. Use them wisely.
 
 I'm a big fan of Anthropic's products and approach to LLMs. This is a must-read to use Claude Code efficiently.
 
+### How I use AI to code: a practical guide
+
+[Link](https://substack.com/inbox/post/177082924)
+
+A detailed workflow for using AI coding agents, written by one of the best programmers I know.
+
