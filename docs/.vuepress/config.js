@@ -89,6 +89,7 @@ export default defineUserConfig({
       {
         text: "Lessons",
         children: [
+          "/lessons/AIDevTrap.md",
           "/lessons/TheHangoverTest.md",
           "/lessons/ProductivityAndWellBeing.md",
           "/lessons/AtomicGitCommits.md",
