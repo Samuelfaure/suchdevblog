@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="generator" content="VuePress 2.0.0-rc.24" />
+    <style>
+      :root {
+        --vp-c-bg: #fff;
+      }
+
+      [data-theme='dark'] {
+        --vp-c-bg: #1b1b1f;
+      }
+
+      html,
+      body {
+        background-color: var(--vp-c-bg);
+      }
+    </style>
+    <script>
+      const useChoice = localStorage.getItem('vuepress-color-scheme')
+      const systemStatus =
+        'matchMedia' in window
+          ? window.matchMedia('(prefers-color-scheme: dark)').matches
+          : false
+
+      if (useChoice === 'light') {
+        document.documentElement.dataset.theme = 'light'
+      } else if (useChoice === 'dark' || systemStatus) {
+        document.documentElement.dataset.theme = 'dark'
+      }
+    </script>
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" size="180x180"><link rel="icon" type="image.png" href="/favicon-32x32.png" size="32x32"><link rel="icon" type="image.png" href="/favicon-16x16.png" size="16x16"><link rel="manifest" href="/site.webmanifest"><link rel="stylesheet" href="/styles/index.css"><meta property="og:type" content="website"><meta property="og:url" content="https://suchdevblog.com/"><meta property="og:title" content="Such Dev Blog"><meta property="og:description" content="Much code, very webdev. A blog by Samuel Faure about web development, Ruby on Rails, Node.js, and more."><meta property="og:image" content="https://suchdevblog.com/images/devpic.webp"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:url" content="https://suchdevblog.com/"><meta name="twitter:title" content="Such Dev Blog"><meta name="twitter:description" content="Much code, very webdev. A blog by Samuel Faure about web development, Ruby on Rails, Node.js, and more."><meta name="twitter:image" content="https://suchdevblog.com/images/devpic.webp"><meta name="author" content="Samuel Faure"><meta name="keywords" content="web development, Ruby on Rails, Node.js, fullstack, developer, blog, tutorials, programming"><meta name="msapplication-TileColor" content="#da532c"><meta name="theme-color" content="#ffffff"><script data-goatcounter="https://suchdevblog.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script><title>Such Dev Blog</title><meta name="description" content="Much code, very webdev.">
+    <link rel="preload" href="/assets/style-Pd9_wNba.css" as="style"><link rel="stylesheet" href="/assets/style-Pd9_wNba.css">
+    <link rel="modulepreload" href="/assets/app-wnH-bxgu.js"><link rel="modulepreload" href="/assets/404.html-B9a58S7U.js">
+    <link rel="prefetch" href="/assets/Portfolio.html-C6Rmi74G.js" as="script"><link rel="prefetch" href="/assets/index.html-CXnzzwTA.js" as="script"><link rel="prefetch" href="/assets/WhoAmI.html-MdILxMwe.js" as="script"><link rel="prefetch" href="/assets/lessons.html-LG327zce.js" as="script"><link rel="prefetch" href="/assets/opinions.html-C9VKvfnJ.js" as="script"><link rel="prefetch" href="/assets/resources.html-B_-loIDW.js" as="script"><link rel="prefetch" href="/assets/tutorials.html-C_r2JmYH.js" as="script"><link rel="prefetch" href="/assets/AIDevTrap.html-C-HQhiq0.js" as="script"><link rel="prefetch" href="/assets/AtomicGitCommits.html-VpQdPwXh.js" as="script"><link rel="prefetch" href="/assets/ExplainingRubySingletonClass.html-D9W7obeA.js" as="script"><link rel="prefetch" href="/assets/HowToLearnGit.html-CSR2ga0X.js" as="script"><link rel="prefetch" href="/assets/HowToNotUseYourBrain.html-rOPdEpoH.js" as="script"><link rel="prefetch" href="/assets/HowToStartCSS.html-DPznZxXK.js" as="script"><link rel="prefetch" href="/assets/ProductivityAndWellBeing.html-1n5NZ-Fo.js" as="script"><link rel="prefetch" href="/assets/TheHangoverTest.html-Di7Nh5Eg.js" as="script"><link rel="prefetch" href="/assets/MarieKondo.html-ObeJE8Lr.js" as="script"><link rel="prefetch" href="/assets/NetworkingIsNotWhatYouThink.html-BuCIMkBr.js" as="script"><link rel="prefetch" href="/assets/TechnicalDebtKitchen.html-CMQ1FZTc.js" as="script"><link rel="prefetch" href="/assets/WhatOpenSourceIs.html-b5sTn53O.js" as="script"><link rel="prefetch" href="/assets/WhyDiversityIsGreat.html-C7okgH5F.js" as="script"><link rel="prefetch" href="/assets/WhyOurWorkCultureSucks.html-BEzeygBR.js" as="script"><link rel="prefetch" href="/assets/BeginnersResources.html-CywoCBRr.js" as="script"><link rel="prefetch" href="/assets/DesignResources.html-BQxiW-1K.js" as="script"><link rel="prefetch" href="/assets/IntermediateResources.html-DE6zwc1Y.js" as="script"><link rel="prefetch" href="/assets/LLMResources.html-D4PnIrK1.js" as="script"><link rel="prefetch" href="/assets/SeniorResources.html-BJs8yhLX.js" as="script"><link rel="prefetch" href="/assets/BuildYourOwnSystem.html-Cn6Aln59.js" as="script"><link rel="prefetch" href="/assets/DebuggingSolrSunspot.html-Dec1LqM6.js" as="script"><link rel="prefetch" href="/assets/FilterAnythingInRails.html-DPeKoRrM.js" as="script"><link rel="prefetch" href="/assets/HowToUseSolrWithRails.html-DE77dpxD.js" as="script"><link rel="prefetch" href="/assets/TestAllYourRoutesInRails.html-CLTI49vi.js" as="script"><link rel="prefetch" href="/assets/TestingAnsibleScriptsWithVagrant.html-Dds0nuf2.js" as="script"><link rel="prefetch" href="/assets/UploadFilesFromVueToRails.html--i1uP2el.js" as="script">
+  </head>
+  <body>
+    <div id="app"><!--[--><div class="vp-theme-container" vp-container data-v-8f49a94d><main class="page" data-v-8f49a94d><div vp-content data-v-8f49a94d><h1 data-v-8f49a94d>404</h1><blockquote data-v-8f49a94d>There&#39;s nothing here.</blockquote><a class="route-link" href="/" data-v-8f49a94d>Take me home</a></div></main></div><!--[--><!----><!--]--><!--]--></div>
+    <script type="module" src="/assets/app-wnH-bxgu.js" defer></script>
+  </body>
+</html>

@@ -1,0 +1,73 @@
+import{_ as s,c as a,a as n,o as i}from"./app-wnH-bxgu.js";const t="/images/xkcd_git.webp",l={};function r(o,e){return i(),a("div",null,e[0]||(e[0]=[n('<p>This article was first published on <a href="https://dev.to/samuelfaure/how-to-learn-git-slowly-38fa" target="_blank" rel="noopener noreferrer">Dev.to</a>. Thanks to the team for choosing it as a Top 7 weekly!</p><h1 id="🧑‍💼-how-to-learn-git-slowly" tabindex="-1"><a class="header-anchor" href="#🧑‍💼-how-to-learn-git-slowly"><span>🧑‍💼 How to Learn Git Slowly</span></a></h1><p><em>This post is dedicated to my wife who, despite being one of the smartest person I know, still sucks at Git.</em></p><p>I&#39;ve been mentoring webdev students for a while now. So I&#39;m in prime position to see what mistakes are common amongst beginners.</p><p>I wrote a previous article about <a href="./HowToStartCss">how to start learning CSS</a> - a great read for any CSS beginner.</p><p>Now it&#39;s time to master Git. Git is... not easy to master.</p><p><img src="'+t+`" alt="Xkcd comic about Git"></p><p><a href="https://xkcd.com/" target="_blank" rel="noopener noreferrer">Comic from XKCD</a></p><p>Which is why beginners can get confused easily. And a mistake can cost a lot: no one wants to be that guy who deleted their peer&#39;s work.</p><p>The best way to learn Git is gradually. It can take quite some time before you&#39;re a real Git master.</p><p>This guide intends to make your journey easier by organizing your learning path in simple, digestible clear-cut steps. Be sure to master each level very well before switching to the next!</p><h2 id="i-basic-solo-use" tabindex="-1"><a class="header-anchor" href="#i-basic-solo-use"><span>I - Basic solo use</span></a></h2><p>These tools will allow you to use Git for your own usage. Don&#39;t bother with branches for now, just do everything on Main.</p><p><em>Concepts to understand perfectly:</em></p><div class="language-text line-numbers-mode" data-highlighter="prismjs" data-ext="text"><pre><code class="language-text"><span class="line">- What is the difference between Git and Github?</span>
+<span class="line">- What is a commit?</span>
+<span class="line">- What is the staging phase?</span>
+<span class="line">- What is a branch?</span>
+<span class="line">- What&#39;s the remote repository VS local repository?</span>
+<span class="line">- How to set one or more upstream repository?</span>
+<span class="line">- How to commit?</span>
+<span class="line">- How to push / pull to an upstream repository?</span>
+<span class="line"></span></code></pre><div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0;"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p><em>Commands to know perfectly:</em></p><div class="language-text line-numbers-mode" data-highlighter="prismjs" data-ext="text"><pre><code class="language-text"><span class="line">git init</span>
+<span class="line">git clone &lt;repository&gt;</span>
+<span class="line">git status</span>
+<span class="line">git add &lt;file&gt;</span>
+<span class="line">git add --all</span>
+<span class="line">git commit</span>
+<span class="line">git remote add</span>
+<span class="line">git remote set-url</span>
+<span class="line">git remote -v</span>
+<span class="line">git push &lt;repository&gt; &lt;branch&gt;</span>
+<span class="line">git pull &lt;repository&gt; &lt;branch&gt;</span>
+<span class="line"></span></code></pre><div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0;"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2 id="ii-basic-tools" tabindex="-1"><a class="header-anchor" href="#ii-basic-tools"><span>II - Basic tools</span></a></h2><p>These tools will allow you to be more at ease with Git as a working tool. We will also need to learn a little bit of configuration.</p><p><em>Concepts to understand perfectly:</em></p><div class="language-text line-numbers-mode" data-highlighter="prismjs" data-ext="text"><pre><code class="language-text"><span class="line">- The .gitignore file</span>
+<span class="line">- The .gitconfig file</span>
+<span class="line">- Seeing the commit log</span>
+<span class="line">- File manipulation with Reset, Clean, Checkout &lt;file&gt;, Rm</span>
+<span class="line">- Repo manipulation with the Stash</span>
+<span class="line"></span></code></pre><div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0;"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p><em>Commands to know perfectly:</em></p><div class="language-text line-numbers-mode" data-highlighter="prismjs" data-ext="text"><pre><code class="language-text"><span class="line">git log (with and without --stat)</span>
+<span class="line">git checkout &lt;file&gt;</span>
+<span class="line">git reset &lt;file&gt; (DANGEROUS!)</span>
+<span class="line">git reset --hard (DANGEROUS!)</span>
+<span class="line">git clean -f (DANGEROUS!)</span>
+<span class="line">git rm &lt;file&gt; (DANGEROUS!)</span>
+<span class="line">git config --global user.name</span>
+<span class="line">git config --global user.email</span>
+<span class="line">git stash</span>
+<span class="line">git stash apply</span>
+<span class="line">git stash clear (Kinda dangerous)</span>
+<span class="line"></span></code></pre><div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0;"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2 id="iii-basic-collaboration" tabindex="-1"><a class="header-anchor" href="#iii-basic-collaboration"><span>III - Basic collaboration</span></a></h2><p>This will allow you to start collaborating with other people. You need to master this level BEFORE any attempt at collaboration.</p><p><em>Concepts to understand perfectly:</em></p><div class="language-text line-numbers-mode" data-highlighter="prismjs" data-ext="text"><pre><code class="language-text"><span class="line">- Branchs: What they are, why they exist, how to use them.</span>
+<span class="line">- Merging</span>
+<span class="line">- Conventions for branch naming</span>
+<span class="line">- How to write good commit messages</span>
+<span class="line">- What are forked repositories?</span>
+<span class="line"></span></code></pre><div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0;"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p><em>Commands to know perfectly:</em></p><div class="language-text line-numbers-mode" data-highlighter="prismjs" data-ext="text"><pre><code class="language-text"><span class="line">git merge</span>
+<span class="line">git branch</span>
+<span class="line">git checkout &lt;branch&gt;</span>
+<span class="line">git checkout -b</span>
+<span class="line">git blame &lt;file&gt;</span>
+<span class="line"></span></code></pre><div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0;"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2 id="iv-basic-collaboration-rebase-pull-requests" tabindex="-1"><a class="header-anchor" href="#iv-basic-collaboration-rebase-pull-requests"><span>IV - Basic collaboration: Rebase &amp; Pull requests</span></a></h2><p>I put the whole &quot;rebasing to the collaborative branch&quot; apart, because it adds the first command that can damage your remote repository: <code>git push --force-with-lease</code>.</p><p>Indeed, if you&#39;re rebasing your local branch, you will need to push with this option to your distant repository. So it&#39;s dangerous, but you still need to master this part if you collaborate in a team.</p><p>I also add pull requests here, because they&#39;re an important concept but they are more of a Github/Gitlab concept than really a Git concept.</p><p><em>Concepts to understand perfectly:</em></p><div class="language-text line-numbers-mode" data-highlighter="prismjs" data-ext="text"><pre><code class="language-text"><span class="line">- Simple rebase (and how it differs from merging)</span>
+<span class="line">- What are pull requests?</span>
+<span class="line">- How to make a PR from branch to branch</span>
+<span class="line">- How to make a PR from a fork to the original repository</span>
+<span class="line"></span></code></pre><div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0;"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p><em>Commands to know perfectly:</em></p><div class="language-text line-numbers-mode" data-highlighter="prismjs" data-ext="text"><pre><code class="language-text"><span class="line">git rebase</span>
+<span class="line">git push --force-with-lease (DANGEROUS)</span>
+<span class="line"></span></code></pre><div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0;"><div class="line-number"></div><div class="line-number"></div></div></div><h2 id="v-competent-level" tabindex="-1"><a class="header-anchor" href="#v-competent-level"><span>V - Competent level</span></a></h2><p>This level allows you to better organize your work history, organize your branches, and navigate in your history with ease.</p><p><em>Concepts to understand perfectly:</em></p><div class="language-text line-numbers-mode" data-highlighter="prismjs" data-ext="text"><pre><code class="language-text"><span class="line">- How to rewrite your local history</span>
+<span class="line">- How to rebase interactively</span>
+<span class="line">- Branch management (prune, fetch)</span>
+<span class="line">- Use of HEAD notation or commit hashes</span>
+<span class="line">- Using Diff to compare commits</span>
+<span class="line">- How to revert a commit</span>
+<span class="line"></span></code></pre><div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0;"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p><em>Commands to know perfectly:</em></p><div class="language-text line-numbers-mode" data-highlighter="prismjs" data-ext="text"><pre><code class="language-text"><span class="line">git commit --amend</span>
+<span class="line">git rebase -i</span>
+<span class="line">git prune</span>
+<span class="line">git fetch</span>
+<span class="line">git remote prune</span>
+<span class="line">git checkout HEAD/HEAD~1/&lt;commit hash&gt;</span>
+<span class="line">git diff &lt;commit hash 1&gt; &lt;commit hash 2&gt;</span>
+<span class="line">git revert &lt;commit hash&gt;</span>
+<span class="line"></span></code></pre><div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0;"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2 id="vi-advanced-level" tabindex="-1"><a class="header-anchor" href="#vi-advanced-level"><span>VI - Advanced level</span></a></h2><p>At this level, you can fix when you or someone else fucks something up.</p><p><em>Concepts to understand perfectly:</em></p><div class="language-text line-numbers-mode" data-highlighter="prismjs" data-ext="text"><pre><code class="language-text"><span class="line">- What is the reflog?</span>
+<span class="line">- How to clean sensitive data from the repository</span>
+<span class="line">- How to effectively hunt for bad commits</span>
+<span class="line"></span></code></pre><div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0;"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p><em>Commands to know perfectly:</em></p><div class="language-text line-numbers-mode" data-highlighter="prismjs" data-ext="text"><pre><code class="language-text"><span class="line">git reflog</span>
+<span class="line">git-filter-branch</span>
+<span class="line">git-filter-repo</span>
+<span class="line">git bisect</span>
+<span class="line"></span></code></pre><div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0;"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>As a great alternative to the git-filter commands, I advise <a href="https://rtyley.github.io/bfg-repo-cleaner/" target="_blank" rel="noopener noreferrer">BFG</a>.</p><h2 id="conclusion" tabindex="-1"><a class="header-anchor" href="#conclusion"><span>Conclusion</span></a></h2><p>I hope this guide helped you navigate the treacherous route that is learning Git for the first time.</p><p>If I forgot an important command you&#39;re using regularly, be sure to tell me!</p><p>Happy coding!</p>`,54)]))}const d=s(l,[["render",r]]),p=JSON.parse('{"path":"/lessons/HowToLearnGit.html","title":"🧑‍💼 How to Learn Git Slowly","lang":"en-US","frontmatter":{"title":"🧑‍💼 How to Learn Git Slowly","description":"Much Git, wow, very Github.","footer":"CC-BY-4.0 Licensed | Copyright © 2018-present by Samuel Faure <3"},"git":{"updatedTime":1761891624000,"contributors":[{"name":"Samuelfaure","username":"Samuelfaure","email":"samuel.faure.dev@gmail.com","commits":1,"url":"https://github.com/Samuelfaure"}],"changelog":[{"hash":"3e80d8aaf6dc1a00d2b2d49762569040eac3e944","time":1761891624000,"email":"samuel.faure.dev@gmail.com","author":"Samuelfaure","message":"New article: AI dev trap"}]},"filePathRelative":"lessons/HowToLearnGit.md"}');export{d as comp,p as data};
