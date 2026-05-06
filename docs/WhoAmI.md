@@ -16,7 +16,7 @@ footer: CC-BY-4.0 Licensed | Copyright © 2018-present by Samuel Faure \<3
 
 My code is **Test-driven** & **Self-documenting**.
 
-## Experience: 9 years
+## Experience: {{ new Date().getFullYear() - 2016 }} years
 
 **2021-Now**: Fullstack & DevOps @[DINUM](https://www.numerique.gouv.fr/dinum//)
 
