@@ -95,7 +95,7 @@ object2.print_hello # => 'Bonjour'
 
 There we go ! `object2` is not defined in the scope of the class ExampleObject, it is defined by a copy of its class that it carries around. So by redefining a method in `object2`, we "open the Eigenclass" and modify properties just for this object.
 
-Since the Eigenclass can exist only in one instance, it is sometimes called the Singleton class, althought ExampleObject is not a Singleton at all. Only the Eigenclasses of its instances are Singletons, because they each are one and unique.
+Since the Eigenclass can exist only in one instance, it is sometimes called the Singleton class, although ExampleObject is not a Singleton at all. Only the Eigenclasses of its instances are Singletons, because they each are one and unique.
 
 ## The class << self notation
 
@@ -201,7 +201,7 @@ MyModel.print_hello # => 'Hello'
 
 As you can see, defining a method on the `self` object inside a class definition is exactly the same thing as opening the Eigenclass with `class << self`.
 
-`self.print_hello` is also called a Class method, to differenciate with an Instance method. See the following:
+`self.print_hello` is also called a Class method, to differentiate with an Instance method. See the following:
 
 ```ruby
 class MyModel

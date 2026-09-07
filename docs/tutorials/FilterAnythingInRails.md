@@ -20,13 +20,13 @@ Some time after, the data had switched format, and I used this opportunity to bu
 
 ## Introducing : has_scope
 
-The brillant gem [has_scope](https://github.com/plataformatec/has_scope) is built by the amazing team behind the famous gem Devise.
+The brilliant gem [has_scope](https://github.com/plataformatec/has_scope) is built by the amazing team behind the famous gem Devise.
 
 What it does : if you define an ActiveRecord scope in your models, you can allow your users to
 use them from your controllers.
 
 You can go read the README, but basically, declaring `has_scope :is_open` in a Company controller and
-`scope :in_paris, ->() (where(city: 'Paris'))` in a Company model will allows your users to request only the companies from Paris :
+`scope :in_paris, ->() (where(city: 'Paris'))` in a Company model will allow your users to request only the companies from Paris :
 
 `GET /companies?in_paris`
 

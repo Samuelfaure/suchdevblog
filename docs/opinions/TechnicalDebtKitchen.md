@@ -67,7 +67,7 @@ There's a lot of reasons for a TD to grow out of control. None of them are good.
 
 The only maybe-somehow-acceptable situation where a TD can grow significantly would be at the very early stages in a start-up creation. You need to conquer market shares fast, so you need to develop fast.
 
-Here's where the issues starts to appear, though. Because TD generates more TD, the start-up which doesn't take care of its TD early will then carry it for years and years, until it turns into a black hole destroying your company efficiency and slurping your developers wellbeing.
+Here's where the issues start to appear, though. Because TD generates more TD, the start-up which doesn't take care of its TD early will then carry it for years and years, until it turns into a black hole destroying your company efficiency and slurping your developers wellbeing.
 
 ### Bad management
 

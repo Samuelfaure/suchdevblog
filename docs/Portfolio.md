@@ -16,7 +16,7 @@ The code for most of my work can be found on [github](https://github.com/samuelf
 - Fullstack + devops + basically everything
 - Working at the heart of French Digital Transformation at DINUM under the supervision of the Prime Minister
 - Develop and maintain API Entreprise and Particulier, the official French government APIs for data transit
-- As well as Datapass, an API habilitation tool, and many smaller project
+- As well as Datapass, an API habilitation tool, and many smaller projects
 - Mostly Rails, some React, Ansible, but a lot of everything.
 
 Previous DINUM projects include:
@@ -41,7 +41,7 @@ Previous DINUM projects include:
 
 ## Some fun side-projects
 
-- Built a full-featured raytracer from scracth in pure C
+- Built a full-featured raytracer from scratch in pure C
 - Trained an AI model to [recognize pictures of bananas](https://github.com/Samuelfaure/is_that_a_banana)
 - Sometimes I [code my own music](https://github.com/Samuelfaure/sonic-pi-compositions)
 - Modified a [neon cactus into a music visualizer](https://github.com/Samuelfaure/neon_genesis_cactus) with some arduino chips

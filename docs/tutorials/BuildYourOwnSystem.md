@@ -22,7 +22,7 @@ Building your own system forces you to know everything about it, therefore becom
 
 You will design the system according to your needs. Instead of adapting your workflow to the software, you will design the software to adapt to your workflow.
 
-And armed with your new knowledge of Linux, you will be able to better deal with any bug or issue that inevitably arise when one use an operating system.
+And armed with your new knowledge of Linux, you will be able to better deal with any bug or issue that inevitably arises when one uses an operating system.
 
 ### The joy of creation
 
@@ -89,7 +89,7 @@ For the choice of packages, I can give you some pointers (pun intended).
 
 ## Some packages that might interest you
 
-This list is just some of my personal's favorites. If you want to find other cool ideas, don't hesitate to check out the [unixporn subreddit](https://www.reddit.com/r/unixporn/top/?t=all).
+This list is just some of my personal favorites. If you want to find other cool ideas, don't hesitate to check out the [unixporn subreddit](https://www.reddit.com/r/unixporn/top/?t=all).
 
 ### Which shell to use ?
 

@@ -12,7 +12,7 @@ This article was first published on [Dev.to](https://dev.to/samuelfaure/how-to-l
 
 I've been mentoring webdev students for a while now. So I'm in prime position to see what mistakes are common amongst beginners.
 
-I wrote a previous article about [how to start learning CSS](./HowToStartCss) - a great read for any CSS beginner.
+I wrote a previous article about [how to start learning CSS](./HowToStartCSS.md) - a great read for any CSS beginner.
 
 Now it's time to master Git. Git is... not easy to master.
 
@@ -91,7 +91,7 @@ This will allow you to start collaborating with other people. You need to master
 
 *Concepts to understand perfectly:*
 ```
-- Branchs: What they are, why they exist, how to use them.
+- Branches: What they are, why they exist, how to use them.
 - Merging
 - Conventions for branch naming
 - How to write good commit messages

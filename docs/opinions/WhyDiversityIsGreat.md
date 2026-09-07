@@ -6,7 +6,7 @@ footer: CC-BY-4.0 Licensed | Copyright © 2018-present by Samuel-Zacharie Faure
 
 # 💵 Why diversity is important, no, really, actually for real
 
-_Alternative title: title: 💵 Why Diversity is great for business, and why you should hire from bootcamps_, also available on [Dev.to](https://dev.to/samuelfaure/why-diversity-is-important-no-really-actually-for-real-1b7l)
+_Alternative title: 💵 Why Diversity is great for business, and why you should hire from bootcamps_, also available on [Dev.to](https://dev.to/samuelfaure/why-diversity-is-important-no-really-actually-for-real-1b7l)
 
 No one really cares about diversity, and that's a huge mistake.
 
@@ -26,7 +26,7 @@ Let's think in terms of what a company _needs_. A company needs **knowledge** an
 
 In tech, we care about _hard skills_. A great knowledge of languages and frameworks. I would argue those are the skills that are both the easiest to develop, to learn, and to find on the job market.
 
-We also talk about **soft skills** such as _communication_ and _teamwork_. Those are the skills that are the hardest to develop, to learn, and to find on the job market. Seasoned developers will also argue that those are the most importants skills. You can have a React genius in your team, it will only get you so far if you're unable to communicate with them or if they can't work with the team.
+We also talk about **soft skills** such as _communication_ and _teamwork_. Those are the skills that are the hardest to develop, to learn, and to find on the job market. Seasoned developers will also argue that those are the most important skills. You can have a React genius in your team, it will only get you so far if you're unable to communicate with them or if they can't work with the team.
 
 I would argue that there are skills that are even harder to measure, to develop, and to acquire. Let's call them _softer skills_.
 

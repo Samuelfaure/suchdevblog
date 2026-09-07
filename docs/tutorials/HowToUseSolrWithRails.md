@@ -33,7 +33,7 @@ In Solr's *schema.xml*, you can see that your queries are tokenized with *Standa
 
   You are trying to correct the query "Blue House". "Blue" might get spellchecked to Blu and "House" is spellchecked to "House". You get "Blu house", which yield no results.
 
-  A way to fix this is to force Solr to only correct a word if it's not present enough in the index. This way, you won't have backward corrections.In schema.xml, add this in the spellchecker component :
+  A way to fix this is to force Solr to only correct a word if it's not present enough in the index. This way, you won't have backward corrections. In schema.xml, add this in the spellchecker component :
 
   ```xml
   <float name="maxQueryFrequency">0.0001</float>
@@ -46,7 +46,7 @@ In Solr's *schema.xml*, you can see that your queries are tokenized with *Standa
   The best solution is to just use collation all the time, but you have to tweak sunspot for that. [This issue](https://github.com/sunspot/sunspot/issues/752) will show you the line to change : just monkey-patch Sunspot, replace at the end of line the number 2 by 0.
   A pull request was merged to fix this, but it never made its way to a release (at the time of writing, early 2018).
 
-With theses two tips and the documentation, you should be able to implement spellchecking without too many problems.
+With these two tips and the documentation, you should be able to implement spellchecking without too many problems.
 
 ## Implementing a suggester
 

@@ -102,7 +102,7 @@ When aspiring junior devs ask me what they should build, I always reply: "Well, 
 
 Think hard. You probably need a tool that either:
 
-- do not exist
+- does not exist
 - or it exists as a paid service
 - or it is free but is spying on your data
 - or the most common situation, it already exists but got [enshittified](https://en.wikipedia.org/wiki/Enshittification).
